@@ -6,3 +6,5 @@ part-*
 *_SUCCESS*
 *.pyc
 **/*.jar
+venv
+**/__pycache__

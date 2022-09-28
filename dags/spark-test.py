@@ -30,7 +30,7 @@ dag = DAG(
         dag_id="spark-test", 
         description="This DAG runs a simple Pyspark app.",
         default_args=default_args, 
-        schedule_interval=timedelta(1)
+        schedule_interval= None # timedelta(1)
     )
 
 start = DummyOperator(task_id="start", dag=dag)
