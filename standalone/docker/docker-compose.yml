@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  airflow:
+    build: .
+    image: airflow_std:main
+    container_name: airflow_standalone
+    restart: always
+    ports:
+      - 3010:8080
+    volumes:
+      - airflow-vl:/root/airflow
+    networks:
+      - airflow-nw
+
+networks:
+  airflow-nw:
+    driver: bridge
+
+volumes:
+  airflow-vl:
+    driver: local
+    driver_opts:
+        type: none
+        device: ../airflow/
+        o: bind 
