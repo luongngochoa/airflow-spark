@@ -1,0 +1,1442 @@
+[2022-10-04 02:34:38,857] {processor.py:163} INFO - Started process (PID=160) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:34:38,858] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:34:38,858] {logging_mixin.py:109} INFO - [2022-10-04 02:34:38,858] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:34:38,878] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:34:39,090] {logging_mixin.py:109} INFO - [2022-10-04 02:34:39,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:34:39,099] {logging_mixin.py:109} INFO - [2022-10-04 02:34:39,099] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:34:39,106] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.251 seconds
+[2022-10-04 02:35:10,062] {processor.py:163} INFO - Started process (PID=190) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:35:10,063] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:35:10,063] {logging_mixin.py:109} INFO - [2022-10-04 02:35:10,063] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:35:10,085] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:35:10,092] {logging_mixin.py:109} INFO - [2022-10-04 02:35:10,092] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:35:10,105] {logging_mixin.py:109} INFO - [2022-10-04 02:35:10,105] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:35:10,113] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 02:35:40,224] {processor.py:163} INFO - Started process (PID=210) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:35:40,225] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:35:40,225] {logging_mixin.py:109} INFO - [2022-10-04 02:35:40,225] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:35:40,242] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:35:40,248] {logging_mixin.py:109} INFO - [2022-10-04 02:35:40,248] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:35:40,258] {logging_mixin.py:109} INFO - [2022-10-04 02:35:40,258] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:35:40,264] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.042 seconds
+[2022-10-04 02:36:10,371] {processor.py:163} INFO - Started process (PID=241) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:36:10,372] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:36:10,373] {logging_mixin.py:109} INFO - [2022-10-04 02:36:10,373] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:36:10,395] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:36:10,401] {logging_mixin.py:109} INFO - [2022-10-04 02:36:10,401] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:36:10,412] {logging_mixin.py:109} INFO - [2022-10-04 02:36:10,412] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:36:10,418] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 02:36:40,506] {processor.py:163} INFO - Started process (PID=263) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:36:40,506] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:36:40,507] {logging_mixin.py:109} INFO - [2022-10-04 02:36:40,507] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:36:40,524] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:36:40,530] {logging_mixin.py:109} INFO - [2022-10-04 02:36:40,530] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:36:40,539] {logging_mixin.py:109} INFO - [2022-10-04 02:36:40,539] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:36:40,545] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.041 seconds
+[2022-10-04 02:37:10,668] {processor.py:163} INFO - Started process (PID=293) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:37:10,669] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:37:10,669] {logging_mixin.py:109} INFO - [2022-10-04 02:37:10,669] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:37:10,687] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:37:10,693] {logging_mixin.py:109} INFO - [2022-10-04 02:37:10,693] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:37:10,702] {logging_mixin.py:109} INFO - [2022-10-04 02:37:10,702] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:37:10,707] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.043 seconds
+[2022-10-04 02:37:40,820] {processor.py:163} INFO - Started process (PID=314) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:37:40,828] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:37:40,829] {logging_mixin.py:109} INFO - [2022-10-04 02:37:40,829] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:37:40,849] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:37:40,855] {logging_mixin.py:109} INFO - [2022-10-04 02:37:40,855] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:37:40,865] {logging_mixin.py:109} INFO - [2022-10-04 02:37:40,865] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:37:40,870] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 02:38:11,017] {processor.py:163} INFO - Started process (PID=344) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:38:11,018] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:38:11,018] {logging_mixin.py:109} INFO - [2022-10-04 02:38:11,018] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:38:11,036] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:38:11,043] {logging_mixin.py:109} INFO - [2022-10-04 02:38:11,043] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:38:11,055] {logging_mixin.py:109} INFO - [2022-10-04 02:38:11,055] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:38:11,060] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 02:38:41,176] {processor.py:163} INFO - Started process (PID=374) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:38:41,177] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:38:41,177] {logging_mixin.py:109} INFO - [2022-10-04 02:38:41,177] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:38:41,196] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:38:41,202] {logging_mixin.py:109} INFO - [2022-10-04 02:38:41,202] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:38:41,214] {logging_mixin.py:109} INFO - [2022-10-04 02:38:41,214] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:38:41,219] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 02:39:11,337] {processor.py:163} INFO - Started process (PID=395) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:39:11,338] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:39:11,338] {logging_mixin.py:109} INFO - [2022-10-04 02:39:11,338] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:39:11,356] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:39:11,361] {logging_mixin.py:109} INFO - [2022-10-04 02:39:11,361] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:39:11,371] {logging_mixin.py:109} INFO - [2022-10-04 02:39:11,371] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:39:11,376] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.040 seconds
+[2022-10-04 02:39:41,526] {processor.py:163} INFO - Started process (PID=424) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:39:41,527] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:39:41,528] {logging_mixin.py:109} INFO - [2022-10-04 02:39:41,528] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:39:41,548] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:39:41,553] {logging_mixin.py:109} INFO - [2022-10-04 02:39:41,553] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:39:41,563] {logging_mixin.py:109} INFO - [2022-10-04 02:39:41,563] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:39:41,568] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 02:40:11,687] {processor.py:163} INFO - Started process (PID=454) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:40:11,695] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:40:11,696] {logging_mixin.py:109} INFO - [2022-10-04 02:40:11,695] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:40:11,714] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:40:11,719] {logging_mixin.py:109} INFO - [2022-10-04 02:40:11,719] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:40:11,730] {logging_mixin.py:109} INFO - [2022-10-04 02:40:11,729] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:40:11,735] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 02:40:41,861] {processor.py:163} INFO - Started process (PID=475) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:40:41,869] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:40:41,870] {logging_mixin.py:109} INFO - [2022-10-04 02:40:41,870] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:40:41,890] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:40:41,895] {logging_mixin.py:109} INFO - [2022-10-04 02:40:41,895] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:40:41,904] {logging_mixin.py:109} INFO - [2022-10-04 02:40:41,904] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:40:41,909] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.052 seconds
+[2022-10-04 02:41:12,041] {processor.py:163} INFO - Started process (PID=506) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:41:12,049] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:41:12,050] {logging_mixin.py:109} INFO - [2022-10-04 02:41:12,049] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:41:12,072] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:41:12,076] {logging_mixin.py:109} INFO - [2022-10-04 02:41:12,076] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:41:12,087] {logging_mixin.py:109} INFO - [2022-10-04 02:41:12,087] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:41:12,092] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 02:41:42,201] {processor.py:163} INFO - Started process (PID=526) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:41:42,208] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:41:42,209] {logging_mixin.py:109} INFO - [2022-10-04 02:41:42,209] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:41:42,234] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:41:42,239] {logging_mixin.py:109} INFO - [2022-10-04 02:41:42,238] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:41:42,247] {logging_mixin.py:109} INFO - [2022-10-04 02:41:42,247] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:41:42,251] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 02:42:12,384] {processor.py:163} INFO - Started process (PID=555) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:42:12,391] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:42:12,392] {logging_mixin.py:109} INFO - [2022-10-04 02:42:12,392] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:42:12,415] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:42:12,420] {logging_mixin.py:109} INFO - [2022-10-04 02:42:12,420] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:42:12,429] {logging_mixin.py:109} INFO - [2022-10-04 02:42:12,429] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:42:12,434] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 02:42:42,549] {processor.py:163} INFO - Started process (PID=586) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:42:42,555] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:42:42,556] {logging_mixin.py:109} INFO - [2022-10-04 02:42:42,556] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:42:42,575] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:42:42,583] {logging_mixin.py:109} INFO - [2022-10-04 02:42:42,583] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:42:42,597] {logging_mixin.py:109} INFO - [2022-10-04 02:42:42,597] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:42:42,604] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.057 seconds
+[2022-10-04 02:43:12,746] {processor.py:163} INFO - Started process (PID=608) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:43:12,754] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:43:12,755] {logging_mixin.py:109} INFO - [2022-10-04 02:43:12,754] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:43:12,777] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:43:12,783] {logging_mixin.py:109} INFO - [2022-10-04 02:43:12,782] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:43:12,791] {logging_mixin.py:109} INFO - [2022-10-04 02:43:12,791] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:43:12,796] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 02:43:42,903] {processor.py:163} INFO - Started process (PID=638) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:43:42,910] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:43:42,910] {logging_mixin.py:109} INFO - [2022-10-04 02:43:42,910] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:43:42,927] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:43:42,932] {logging_mixin.py:109} INFO - [2022-10-04 02:43:42,932] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:43:42,941] {logging_mixin.py:109} INFO - [2022-10-04 02:43:42,941] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:43:42,947] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 02:44:13,079] {processor.py:163} INFO - Started process (PID=659) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:44:13,087] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:44:13,088] {logging_mixin.py:109} INFO - [2022-10-04 02:44:13,088] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:44:13,111] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:44:13,116] {logging_mixin.py:109} INFO - [2022-10-04 02:44:13,116] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:44:13,125] {logging_mixin.py:109} INFO - [2022-10-04 02:44:13,125] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:44:13,130] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 02:44:43,253] {processor.py:163} INFO - Started process (PID=689) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:44:43,255] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:44:43,256] {logging_mixin.py:109} INFO - [2022-10-04 02:44:43,255] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:44:43,276] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:44:43,281] {logging_mixin.py:109} INFO - [2022-10-04 02:44:43,281] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:44:43,290] {logging_mixin.py:109} INFO - [2022-10-04 02:44:43,290] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:44:43,295] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 02:45:13,406] {processor.py:163} INFO - Started process (PID=718) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:45:13,407] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:45:13,407] {logging_mixin.py:109} INFO - [2022-10-04 02:45:13,407] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:45:13,429] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:45:13,438] {logging_mixin.py:109} INFO - [2022-10-04 02:45:13,438] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:45:13,454] {logging_mixin.py:109} INFO - [2022-10-04 02:45:13,454] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:45:13,463] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.058 seconds
+[2022-10-04 02:45:43,589] {processor.py:163} INFO - Started process (PID=739) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:45:43,596] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:45:43,597] {logging_mixin.py:109} INFO - [2022-10-04 02:45:43,597] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:45:43,621] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:45:43,628] {logging_mixin.py:109} INFO - [2022-10-04 02:45:43,628] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:45:43,640] {logging_mixin.py:109} INFO - [2022-10-04 02:45:43,640] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:45:43,645] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.058 seconds
+[2022-10-04 02:46:13,762] {processor.py:163} INFO - Started process (PID=769) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:46:13,770] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:46:13,771] {logging_mixin.py:109} INFO - [2022-10-04 02:46:13,771] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:46:13,791] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:46:13,797] {logging_mixin.py:109} INFO - [2022-10-04 02:46:13,796] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:46:13,806] {logging_mixin.py:109} INFO - [2022-10-04 02:46:13,806] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:46:13,811] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 02:46:43,916] {processor.py:163} INFO - Started process (PID=789) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:46:43,924] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:46:43,925] {logging_mixin.py:109} INFO - [2022-10-04 02:46:43,925] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:46:43,947] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:46:43,952] {logging_mixin.py:109} INFO - [2022-10-04 02:46:43,952] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:46:43,961] {logging_mixin.py:109} INFO - [2022-10-04 02:46:43,961] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:46:43,965] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 02:47:14,089] {processor.py:163} INFO - Started process (PID=819) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:47:14,091] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:47:14,092] {logging_mixin.py:109} INFO - [2022-10-04 02:47:14,092] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:47:14,112] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:47:14,117] {logging_mixin.py:109} INFO - [2022-10-04 02:47:14,117] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:47:14,126] {logging_mixin.py:109} INFO - [2022-10-04 02:47:14,126] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:47:14,132] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 02:47:44,245] {processor.py:163} INFO - Started process (PID=849) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:47:44,252] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:47:44,252] {logging_mixin.py:109} INFO - [2022-10-04 02:47:44,252] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:47:44,270] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:47:44,278] {logging_mixin.py:109} INFO - [2022-10-04 02:47:44,278] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:47:44,292] {logging_mixin.py:109} INFO - [2022-10-04 02:47:44,292] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:47:44,298] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 02:48:14,417] {processor.py:163} INFO - Started process (PID=870) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:48:14,424] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:48:14,425] {logging_mixin.py:109} INFO - [2022-10-04 02:48:14,425] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:48:14,442] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:48:14,447] {logging_mixin.py:109} INFO - [2022-10-04 02:48:14,447] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:48:14,456] {logging_mixin.py:109} INFO - [2022-10-04 02:48:14,456] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:48:14,461] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 02:48:44,572] {processor.py:163} INFO - Started process (PID=900) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:48:44,580] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:48:44,581] {logging_mixin.py:109} INFO - [2022-10-04 02:48:44,581] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:48:44,605] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:48:44,609] {logging_mixin.py:109} INFO - [2022-10-04 02:48:44,609] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:48:44,618] {logging_mixin.py:109} INFO - [2022-10-04 02:48:44,618] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:48:44,623] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.052 seconds
+[2022-10-04 02:49:14,735] {processor.py:163} INFO - Started process (PID=921) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:49:14,742] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:49:14,742] {logging_mixin.py:109} INFO - [2022-10-04 02:49:14,742] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:49:14,759] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:49:14,765] {logging_mixin.py:109} INFO - [2022-10-04 02:49:14,765] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:49:14,774] {logging_mixin.py:109} INFO - [2022-10-04 02:49:14,774] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:49:14,779] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 02:49:44,910] {processor.py:163} INFO - Started process (PID=952) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:49:44,917] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:49:44,918] {logging_mixin.py:109} INFO - [2022-10-04 02:49:44,918] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:49:44,936] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:49:44,941] {logging_mixin.py:109} INFO - [2022-10-04 02:49:44,941] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:49:44,950] {logging_mixin.py:109} INFO - [2022-10-04 02:49:44,950] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:49:44,956] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 02:50:15,080] {processor.py:163} INFO - Started process (PID=973) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:50:15,088] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:50:15,088] {logging_mixin.py:109} INFO - [2022-10-04 02:50:15,088] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:50:15,111] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:50:15,116] {logging_mixin.py:109} INFO - [2022-10-04 02:50:15,116] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:50:15,125] {logging_mixin.py:109} INFO - [2022-10-04 02:50:15,125] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:50:15,129] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 02:50:45,244] {processor.py:163} INFO - Started process (PID=1003) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:50:45,246] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:50:45,246] {logging_mixin.py:109} INFO - [2022-10-04 02:50:45,246] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:50:45,267] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:50:45,273] {logging_mixin.py:109} INFO - [2022-10-04 02:50:45,273] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:50:45,285] {logging_mixin.py:109} INFO - [2022-10-04 02:50:45,285] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:50:45,290] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.051 seconds
+[2022-10-04 02:51:15,402] {processor.py:163} INFO - Started process (PID=1034) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:51:15,409] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:51:15,409] {logging_mixin.py:109} INFO - [2022-10-04 02:51:15,409] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:51:15,428] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:51:15,435] {logging_mixin.py:109} INFO - [2022-10-04 02:51:15,435] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:51:15,446] {logging_mixin.py:109} INFO - [2022-10-04 02:51:15,446] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:51:15,453] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 02:51:45,579] {processor.py:163} INFO - Started process (PID=1055) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:51:45,581] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:51:45,582] {logging_mixin.py:109} INFO - [2022-10-04 02:51:45,582] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:51:45,602] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:51:45,607] {logging_mixin.py:109} INFO - [2022-10-04 02:51:45,607] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:51:45,616] {logging_mixin.py:109} INFO - [2022-10-04 02:51:45,616] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:51:45,621] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 02:52:15,743] {processor.py:163} INFO - Started process (PID=1085) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:52:15,743] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:52:15,744] {logging_mixin.py:109} INFO - [2022-10-04 02:52:15,744] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:52:15,761] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:52:15,768] {logging_mixin.py:109} INFO - [2022-10-04 02:52:15,768] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:52:15,777] {logging_mixin.py:109} INFO - [2022-10-04 02:52:15,777] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:52:15,783] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.041 seconds
+[2022-10-04 02:52:45,910] {processor.py:163} INFO - Started process (PID=1106) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:52:45,918] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:52:45,919] {logging_mixin.py:109} INFO - [2022-10-04 02:52:45,919] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:52:45,940] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:52:45,945] {logging_mixin.py:109} INFO - [2022-10-04 02:52:45,945] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:52:45,956] {logging_mixin.py:109} INFO - [2022-10-04 02:52:45,956] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:52:45,961] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 02:53:16,095] {processor.py:163} INFO - Started process (PID=1136) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:53:16,103] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:53:16,104] {logging_mixin.py:109} INFO - [2022-10-04 02:53:16,104] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:53:16,127] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:53:16,132] {logging_mixin.py:109} INFO - [2022-10-04 02:53:16,132] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:53:16,141] {logging_mixin.py:109} INFO - [2022-10-04 02:53:16,141] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:53:16,146] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 02:53:46,267] {processor.py:163} INFO - Started process (PID=1157) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:53:46,268] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:53:46,269] {logging_mixin.py:109} INFO - [2022-10-04 02:53:46,268] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:53:46,285] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:53:46,290] {logging_mixin.py:109} INFO - [2022-10-04 02:53:46,290] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:53:46,299] {logging_mixin.py:109} INFO - [2022-10-04 02:53:46,299] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:53:46,304] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.040 seconds
+[2022-10-04 02:54:16,404] {processor.py:163} INFO - Started process (PID=1187) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:54:16,405] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:54:16,406] {logging_mixin.py:109} INFO - [2022-10-04 02:54:16,405] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:54:16,424] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:54:16,429] {logging_mixin.py:109} INFO - [2022-10-04 02:54:16,429] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:54:16,438] {logging_mixin.py:109} INFO - [2022-10-04 02:54:16,438] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:54:16,443] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.041 seconds
+[2022-10-04 02:54:46,571] {processor.py:163} INFO - Started process (PID=1218) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:54:46,579] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:54:46,580] {logging_mixin.py:109} INFO - [2022-10-04 02:54:46,579] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:54:46,604] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:54:46,617] {logging_mixin.py:109} INFO - [2022-10-04 02:54:46,617] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:54:46,633] {logging_mixin.py:109} INFO - [2022-10-04 02:54:46,633] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:54:46,705] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.138 seconds
+[2022-10-04 02:55:16,870] {processor.py:163} INFO - Started process (PID=1239) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:55:16,877] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:55:16,878] {logging_mixin.py:109} INFO - [2022-10-04 02:55:16,878] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:55:16,902] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:55:16,908] {logging_mixin.py:109} INFO - [2022-10-04 02:55:16,907] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:55:16,917] {logging_mixin.py:109} INFO - [2022-10-04 02:55:16,917] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:55:16,975] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.106 seconds
+[2022-10-04 02:55:47,111] {processor.py:163} INFO - Started process (PID=1270) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:55:47,117] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:55:47,118] {logging_mixin.py:109} INFO - [2022-10-04 02:55:47,118] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:55:47,134] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:55:47,139] {logging_mixin.py:109} INFO - [2022-10-04 02:55:47,139] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:55:47,202] {logging_mixin.py:109} INFO - [2022-10-04 02:55:47,202] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:55:47,208] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.099 seconds
+[2022-10-04 02:56:17,377] {processor.py:163} INFO - Started process (PID=1300) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:56:17,385] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:56:17,385] {logging_mixin.py:109} INFO - [2022-10-04 02:56:17,385] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:56:17,404] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:56:17,409] {logging_mixin.py:109} INFO - [2022-10-04 02:56:17,409] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:56:17,476] {logging_mixin.py:109} INFO - [2022-10-04 02:56:17,476] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:56:17,483] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.107 seconds
+[2022-10-04 02:56:47,637] {processor.py:163} INFO - Started process (PID=1321) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:56:47,644] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:56:47,645] {logging_mixin.py:109} INFO - [2022-10-04 02:56:47,645] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:56:47,668] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:56:47,673] {logging_mixin.py:109} INFO - [2022-10-04 02:56:47,673] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:56:47,734] {logging_mixin.py:109} INFO - [2022-10-04 02:56:47,734] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:56:47,739] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.104 seconds
+[2022-10-04 02:57:17,869] {processor.py:163} INFO - Started process (PID=1351) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:57:17,877] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:57:17,878] {logging_mixin.py:109} INFO - [2022-10-04 02:57:17,877] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:57:17,899] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:57:17,904] {logging_mixin.py:109} INFO - [2022-10-04 02:57:17,904] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:57:17,965] {logging_mixin.py:109} INFO - [2022-10-04 02:57:17,965] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:57:17,969] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.103 seconds
+[2022-10-04 02:57:48,156] {processor.py:163} INFO - Started process (PID=1372) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:57:48,164] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:57:48,165] {logging_mixin.py:109} INFO - [2022-10-04 02:57:48,164] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:57:48,241] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:57:48,245] {logging_mixin.py:109} INFO - [2022-10-04 02:57:48,244] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:57:48,253] {logging_mixin.py:109} INFO - [2022-10-04 02:57:48,253] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:57:48,257] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.105 seconds
+[2022-10-04 02:58:18,384] {processor.py:163} INFO - Started process (PID=1403) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:58:18,391] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:58:18,392] {logging_mixin.py:109} INFO - [2022-10-04 02:58:18,392] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:58:18,469] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:58:18,473] {logging_mixin.py:109} INFO - [2022-10-04 02:58:18,473] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:58:18,481] {logging_mixin.py:109} INFO - [2022-10-04 02:58:18,481] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:58:18,485] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.106 seconds
+[2022-10-04 02:58:48,645] {processor.py:163} INFO - Started process (PID=1433) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:58:48,651] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:58:48,652] {logging_mixin.py:109} INFO - [2022-10-04 02:58:48,652] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:58:48,729] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:58:48,734] {logging_mixin.py:109} INFO - [2022-10-04 02:58:48,734] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:58:48,744] {logging_mixin.py:109} INFO - [2022-10-04 02:58:48,744] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:58:48,751] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.108 seconds
+[2022-10-04 02:59:18,909] {processor.py:163} INFO - Started process (PID=1454) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:59:18,909] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:59:18,910] {logging_mixin.py:109} INFO - [2022-10-04 02:59:18,910] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:59:18,995] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:59:19,001] {logging_mixin.py:109} INFO - [2022-10-04 02:59:19,001] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:59:19,011] {logging_mixin.py:109} INFO - [2022-10-04 02:59:19,011] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:59:19,024] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.117 seconds
+[2022-10-04 02:59:49,181] {processor.py:163} INFO - Started process (PID=1484) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:59:49,189] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 02:59:49,190] {logging_mixin.py:109} INFO - [2022-10-04 02:59:49,190] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:59:49,264] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 02:59:49,268] {logging_mixin.py:109} INFO - [2022-10-04 02:59:49,268] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 02:59:49,276] {logging_mixin.py:109} INFO - [2022-10-04 02:59:49,276] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 02:59:49,281] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.105 seconds
+[2022-10-04 03:00:19,463] {processor.py:163} INFO - Started process (PID=1505) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:00:19,471] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:00:19,472] {logging_mixin.py:109} INFO - [2022-10-04 03:00:19,471] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:00:19,494] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:00:19,499] {logging_mixin.py:109} INFO - [2022-10-04 03:00:19,499] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:00:19,509] {logging_mixin.py:109} INFO - [2022-10-04 03:00:19,509] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:00:19,513] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:00:49,648] {processor.py:163} INFO - Started process (PID=1536) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:00:49,656] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:00:49,656] {logging_mixin.py:109} INFO - [2022-10-04 03:00:49,656] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:00:49,679] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:00:49,684] {logging_mixin.py:109} INFO - [2022-10-04 03:00:49,684] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:00:49,693] {logging_mixin.py:109} INFO - [2022-10-04 03:00:49,693] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:00:49,698] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:01:19,814] {processor.py:163} INFO - Started process (PID=1566) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:01:19,821] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:01:19,822] {logging_mixin.py:109} INFO - [2022-10-04 03:01:19,822] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:01:19,839] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:01:19,844] {logging_mixin.py:109} INFO - [2022-10-04 03:01:19,844] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:01:19,855] {logging_mixin.py:109} INFO - [2022-10-04 03:01:19,855] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:01:19,860] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 03:01:49,974] {processor.py:163} INFO - Started process (PID=1587) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:01:49,975] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:01:49,975] {logging_mixin.py:109} INFO - [2022-10-04 03:01:49,975] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:01:49,992] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:01:49,997] {logging_mixin.py:109} INFO - [2022-10-04 03:01:49,997] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:01:50,008] {logging_mixin.py:109} INFO - [2022-10-04 03:01:50,008] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:01:50,013] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.041 seconds
+[2022-10-04 03:02:20,146] {processor.py:163} INFO - Started process (PID=1616) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:02:20,154] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:02:20,155] {logging_mixin.py:109} INFO - [2022-10-04 03:02:20,155] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:02:20,178] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:02:20,184] {logging_mixin.py:109} INFO - [2022-10-04 03:02:20,184] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:02:20,195] {logging_mixin.py:109} INFO - [2022-10-04 03:02:20,195] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:02:20,200] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.059 seconds
+[2022-10-04 03:02:50,314] {processor.py:163} INFO - Started process (PID=1637) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:02:50,322] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:02:50,323] {logging_mixin.py:109} INFO - [2022-10-04 03:02:50,323] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:02:50,345] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:02:50,349] {logging_mixin.py:109} INFO - [2022-10-04 03:02:50,349] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:02:50,358] {logging_mixin.py:109} INFO - [2022-10-04 03:02:50,358] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:02:50,363] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 03:03:20,449] {processor.py:163} INFO - Started process (PID=1667) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:03:20,456] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:03:20,457] {logging_mixin.py:109} INFO - [2022-10-04 03:03:20,457] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:03:20,482] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:03:20,487] {logging_mixin.py:109} INFO - [2022-10-04 03:03:20,487] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:03:20,497] {logging_mixin.py:109} INFO - [2022-10-04 03:03:20,496] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:03:20,501] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.058 seconds
+[2022-10-04 03:03:50,613] {processor.py:163} INFO - Started process (PID=1698) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:03:50,620] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:03:50,621] {logging_mixin.py:109} INFO - [2022-10-04 03:03:50,621] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:03:50,639] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:03:50,646] {logging_mixin.py:109} INFO - [2022-10-04 03:03:50,646] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:03:50,657] {logging_mixin.py:109} INFO - [2022-10-04 03:03:50,657] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:03:50,664] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 03:04:20,797] {processor.py:163} INFO - Started process (PID=1719) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:04:20,805] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:04:20,805] {logging_mixin.py:109} INFO - [2022-10-04 03:04:20,805] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:04:20,829] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:04:20,834] {logging_mixin.py:109} INFO - [2022-10-04 03:04:20,834] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:04:20,842] {logging_mixin.py:109} INFO - [2022-10-04 03:04:20,842] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:04:20,848] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 03:04:50,989] {processor.py:163} INFO - Started process (PID=1750) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:04:50,996] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:04:50,996] {logging_mixin.py:109} INFO - [2022-10-04 03:04:50,996] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:04:51,013] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:04:51,018] {logging_mixin.py:109} INFO - [2022-10-04 03:04:51,018] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:04:51,027] {logging_mixin.py:109} INFO - [2022-10-04 03:04:51,027] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:04:51,033] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 03:05:21,155] {processor.py:163} INFO - Started process (PID=1771) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:05:21,162] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:05:21,162] {logging_mixin.py:109} INFO - [2022-10-04 03:05:21,162] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:05:21,182] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:05:21,188] {logging_mixin.py:109} INFO - [2022-10-04 03:05:21,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:05:21,198] {logging_mixin.py:109} INFO - [2022-10-04 03:05:21,198] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:05:21,204] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.052 seconds
+[2022-10-04 03:05:51,321] {processor.py:163} INFO - Started process (PID=1802) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:05:51,322] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:05:51,322] {logging_mixin.py:109} INFO - [2022-10-04 03:05:51,322] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:05:51,340] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:05:51,346] {logging_mixin.py:109} INFO - [2022-10-04 03:05:51,346] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:05:51,357] {logging_mixin.py:109} INFO - [2022-10-04 03:05:51,357] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:05:51,362] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.043 seconds
+[2022-10-04 03:06:21,474] {processor.py:163} INFO - Started process (PID=1832) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:06:21,481] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:06:21,481] {logging_mixin.py:109} INFO - [2022-10-04 03:06:21,481] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:06:21,498] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:06:21,503] {logging_mixin.py:109} INFO - [2022-10-04 03:06:21,503] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:06:21,514] {logging_mixin.py:109} INFO - [2022-10-04 03:06:21,513] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:06:21,518] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 03:06:51,635] {processor.py:163} INFO - Started process (PID=1853) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:06:51,643] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:06:51,644] {logging_mixin.py:109} INFO - [2022-10-04 03:06:51,643] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:06:51,666] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:06:51,671] {logging_mixin.py:109} INFO - [2022-10-04 03:06:51,671] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:06:51,680] {logging_mixin.py:109} INFO - [2022-10-04 03:06:51,680] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:06:51,685] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:07:21,741] {processor.py:163} INFO - Started process (PID=1883) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:07:21,749] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:07:21,750] {logging_mixin.py:109} INFO - [2022-10-04 03:07:21,750] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:07:21,775] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:07:21,782] {logging_mixin.py:109} INFO - [2022-10-04 03:07:21,782] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:07:21,793] {logging_mixin.py:109} INFO - [2022-10-04 03:07:21,793] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:07:21,798] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.061 seconds
+[2022-10-04 03:07:51,927] {processor.py:163} INFO - Started process (PID=1904) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:07:51,934] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:07:51,936] {logging_mixin.py:109} INFO - [2022-10-04 03:07:51,935] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:07:51,959] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:07:51,964] {logging_mixin.py:109} INFO - [2022-10-04 03:07:51,964] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:07:51,975] {logging_mixin.py:109} INFO - [2022-10-04 03:07:51,975] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:07:51,980] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.059 seconds
+[2022-10-04 03:08:22,098] {processor.py:163} INFO - Started process (PID=1934) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:08:22,099] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:08:22,100] {logging_mixin.py:109} INFO - [2022-10-04 03:08:22,100] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:08:22,140] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:08:22,145] {logging_mixin.py:109} INFO - [2022-10-04 03:08:22,145] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:08:22,156] {logging_mixin.py:109} INFO - [2022-10-04 03:08:22,156] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:08:22,160] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.064 seconds
+[2022-10-04 03:08:52,262] {processor.py:163} INFO - Started process (PID=1963) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:08:52,269] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:08:52,269] {logging_mixin.py:109} INFO - [2022-10-04 03:08:52,269] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:08:52,287] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:08:52,293] {logging_mixin.py:109} INFO - [2022-10-04 03:08:52,293] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:08:52,303] {logging_mixin.py:109} INFO - [2022-10-04 03:08:52,303] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:08:52,309] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 03:09:22,425] {processor.py:163} INFO - Started process (PID=1984) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:09:22,426] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:09:22,427] {logging_mixin.py:109} INFO - [2022-10-04 03:09:22,427] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:09:22,448] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:09:22,455] {logging_mixin.py:109} INFO - [2022-10-04 03:09:22,455] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:09:22,465] {logging_mixin.py:109} INFO - [2022-10-04 03:09:22,465] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:09:22,469] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 03:09:52,600] {processor.py:163} INFO - Started process (PID=2013) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:09:52,601] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:09:52,601] {logging_mixin.py:109} INFO - [2022-10-04 03:09:52,601] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:09:52,619] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:09:52,624] {logging_mixin.py:109} INFO - [2022-10-04 03:09:52,624] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:09:52,634] {logging_mixin.py:109} INFO - [2022-10-04 03:09:52,634] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:09:52,640] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 03:10:22,933] {processor.py:163} INFO - Started process (PID=2041) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:10:22,940] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:10:22,940] {logging_mixin.py:109} INFO - [2022-10-04 03:10:22,940] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:10:22,960] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:10:22,966] {logging_mixin.py:109} INFO - [2022-10-04 03:10:22,966] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:10:22,978] {logging_mixin.py:109} INFO - [2022-10-04 03:10:22,978] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:10:22,985] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:10:53,112] {processor.py:163} INFO - Started process (PID=2071) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:10:53,119] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:10:53,120] {logging_mixin.py:109} INFO - [2022-10-04 03:10:53,120] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:10:53,143] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:10:53,148] {logging_mixin.py:109} INFO - [2022-10-04 03:10:53,148] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:10:53,157] {logging_mixin.py:109} INFO - [2022-10-04 03:10:53,157] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:10:53,162] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:11:23,289] {processor.py:163} INFO - Started process (PID=2093) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:11:23,296] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:11:23,296] {logging_mixin.py:109} INFO - [2022-10-04 03:11:23,296] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:11:23,313] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:11:23,318] {logging_mixin.py:109} INFO - [2022-10-04 03:11:23,318] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:11:23,328] {logging_mixin.py:109} INFO - [2022-10-04 03:11:23,328] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:11:23,333] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 03:11:53,460] {processor.py:163} INFO - Started process (PID=2123) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:11:53,467] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:11:53,468] {logging_mixin.py:109} INFO - [2022-10-04 03:11:53,468] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:11:53,491] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:11:53,497] {logging_mixin.py:109} INFO - [2022-10-04 03:11:53,497] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:11:53,506] {logging_mixin.py:109} INFO - [2022-10-04 03:11:53,506] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:11:53,511] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.057 seconds
+[2022-10-04 03:12:23,633] {processor.py:163} INFO - Started process (PID=2152) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:12:23,640] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:12:23,640] {logging_mixin.py:109} INFO - [2022-10-04 03:12:23,640] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:12:23,661] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:12:23,668] {logging_mixin.py:109} INFO - [2022-10-04 03:12:23,668] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:12:23,679] {logging_mixin.py:109} INFO - [2022-10-04 03:12:23,679] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:12:23,685] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:12:53,799] {processor.py:163} INFO - Started process (PID=2173) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:12:53,807] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:12:53,808] {logging_mixin.py:109} INFO - [2022-10-04 03:12:53,808] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:12:53,830] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:12:53,836] {logging_mixin.py:109} INFO - [2022-10-04 03:12:53,836] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:12:53,847] {logging_mixin.py:109} INFO - [2022-10-04 03:12:53,847] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:12:53,853] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.059 seconds
+[2022-10-04 03:13:23,998] {processor.py:163} INFO - Started process (PID=2203) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:13:24,005] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:13:24,006] {logging_mixin.py:109} INFO - [2022-10-04 03:13:24,006] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:13:24,030] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:13:24,036] {logging_mixin.py:109} INFO - [2022-10-04 03:13:24,036] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:13:24,045] {logging_mixin.py:109} INFO - [2022-10-04 03:13:24,045] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:13:24,049] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 03:13:54,145] {processor.py:163} INFO - Started process (PID=2223) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:13:54,153] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:13:54,154] {logging_mixin.py:109} INFO - [2022-10-04 03:13:54,154] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:13:54,176] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:13:54,181] {logging_mixin.py:109} INFO - [2022-10-04 03:13:54,181] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:13:54,190] {logging_mixin.py:109} INFO - [2022-10-04 03:13:54,190] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:13:54,195] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:14:24,342] {processor.py:163} INFO - Started process (PID=2252) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:14:24,349] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:14:24,350] {logging_mixin.py:109} INFO - [2022-10-04 03:14:24,350] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:14:24,374] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:14:24,379] {logging_mixin.py:109} INFO - [2022-10-04 03:14:24,379] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:14:24,388] {logging_mixin.py:109} INFO - [2022-10-04 03:14:24,388] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:14:24,393] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 03:14:54,535] {processor.py:163} INFO - Started process (PID=2283) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:14:54,543] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:14:54,544] {logging_mixin.py:109} INFO - [2022-10-04 03:14:54,543] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:14:54,568] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:14:54,573] {logging_mixin.py:109} INFO - [2022-10-04 03:14:54,573] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:14:54,581] {logging_mixin.py:109} INFO - [2022-10-04 03:14:54,581] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:14:54,586] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 03:15:24,691] {processor.py:163} INFO - Started process (PID=2305) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:15:24,692] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:15:24,692] {logging_mixin.py:109} INFO - [2022-10-04 03:15:24,692] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:15:24,708] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:15:24,713] {logging_mixin.py:109} INFO - [2022-10-04 03:15:24,713] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:15:24,722] {logging_mixin.py:109} INFO - [2022-10-04 03:15:24,722] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:15:24,727] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.037 seconds
+[2022-10-04 03:15:54,841] {processor.py:163} INFO - Started process (PID=2335) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:15:54,847] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:15:54,848] {logging_mixin.py:109} INFO - [2022-10-04 03:15:54,848] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:15:54,864] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:15:54,869] {logging_mixin.py:109} INFO - [2022-10-04 03:15:54,869] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:15:54,878] {logging_mixin.py:109} INFO - [2022-10-04 03:15:54,878] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:15:54,883] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 03:16:25,041] {processor.py:163} INFO - Started process (PID=2357) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:16:25,042] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:16:25,043] {logging_mixin.py:109} INFO - [2022-10-04 03:16:25,043] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:16:25,078] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:16:25,087] {logging_mixin.py:109} INFO - [2022-10-04 03:16:25,086] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:16:25,100] {logging_mixin.py:109} INFO - [2022-10-04 03:16:25,099] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:16:25,106] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.070 seconds
+[2022-10-04 03:16:55,189] {processor.py:163} INFO - Started process (PID=2387) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:16:55,195] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:16:55,196] {logging_mixin.py:109} INFO - [2022-10-04 03:16:55,196] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:16:55,213] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:16:55,219] {logging_mixin.py:109} INFO - [2022-10-04 03:16:55,219] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:16:55,230] {logging_mixin.py:109} INFO - [2022-10-04 03:16:55,230] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:16:55,235] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 03:17:25,345] {processor.py:163} INFO - Started process (PID=2416) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:17:25,352] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:17:25,353] {logging_mixin.py:109} INFO - [2022-10-04 03:17:25,353] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:17:25,374] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:17:25,379] {logging_mixin.py:109} INFO - [2022-10-04 03:17:25,379] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:17:25,390] {logging_mixin.py:109} INFO - [2022-10-04 03:17:25,390] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:17:25,395] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:17:55,546] {processor.py:163} INFO - Started process (PID=2437) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:17:55,553] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:17:55,554] {logging_mixin.py:109} INFO - [2022-10-04 03:17:55,554] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:17:55,578] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:17:55,583] {logging_mixin.py:109} INFO - [2022-10-04 03:17:55,583] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:17:55,594] {logging_mixin.py:109} INFO - [2022-10-04 03:17:55,594] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:17:55,599] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:18:25,700] {processor.py:163} INFO - Started process (PID=2467) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:18:25,708] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:18:25,709] {logging_mixin.py:109} INFO - [2022-10-04 03:18:25,709] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:18:25,732] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:18:25,737] {logging_mixin.py:109} INFO - [2022-10-04 03:18:25,737] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:18:25,745] {logging_mixin.py:109} INFO - [2022-10-04 03:18:25,745] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:18:25,750] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:18:55,886] {processor.py:163} INFO - Started process (PID=2488) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:18:55,892] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:18:55,893] {logging_mixin.py:109} INFO - [2022-10-04 03:18:55,893] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:18:55,913] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:18:55,919] {logging_mixin.py:109} INFO - [2022-10-04 03:18:55,919] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:18:55,932] {logging_mixin.py:109} INFO - [2022-10-04 03:18:55,932] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:18:55,937] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:19:26,060] {processor.py:163} INFO - Started process (PID=2518) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:19:26,067] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:19:26,068] {logging_mixin.py:109} INFO - [2022-10-04 03:19:26,068] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:19:26,091] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:19:26,096] {logging_mixin.py:109} INFO - [2022-10-04 03:19:26,096] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:19:26,105] {logging_mixin.py:109} INFO - [2022-10-04 03:19:26,105] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:19:26,109] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:19:56,232] {processor.py:163} INFO - Started process (PID=2548) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:19:56,239] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:19:56,240] {logging_mixin.py:109} INFO - [2022-10-04 03:19:56,240] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:19:56,262] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:19:56,267] {logging_mixin.py:109} INFO - [2022-10-04 03:19:56,267] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:19:56,276] {logging_mixin.py:109} INFO - [2022-10-04 03:19:56,276] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:19:56,281] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 03:20:26,386] {processor.py:163} INFO - Started process (PID=2569) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:20:26,393] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:20:26,393] {logging_mixin.py:109} INFO - [2022-10-04 03:20:26,393] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:20:26,411] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:20:26,417] {logging_mixin.py:109} INFO - [2022-10-04 03:20:26,417] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:20:26,426] {logging_mixin.py:109} INFO - [2022-10-04 03:20:26,426] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:20:26,432] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 03:20:56,563] {processor.py:163} INFO - Started process (PID=2599) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:20:56,570] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:20:56,571] {logging_mixin.py:109} INFO - [2022-10-04 03:20:56,571] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:20:56,595] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:20:56,600] {logging_mixin.py:109} INFO - [2022-10-04 03:20:56,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:20:56,609] {logging_mixin.py:109} INFO - [2022-10-04 03:20:56,609] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:20:56,614] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 03:21:26,757] {processor.py:163} INFO - Started process (PID=2629) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:21:26,763] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:21:26,764] {logging_mixin.py:109} INFO - [2022-10-04 03:21:26,764] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:21:26,783] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:21:26,788] {logging_mixin.py:109} INFO - [2022-10-04 03:21:26,788] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:21:26,798] {logging_mixin.py:109} INFO - [2022-10-04 03:21:26,798] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:21:26,803] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 03:21:56,928] {processor.py:163} INFO - Started process (PID=2650) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:21:56,936] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:21:56,937] {logging_mixin.py:109} INFO - [2022-10-04 03:21:56,937] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:21:56,962] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:21:56,967] {logging_mixin.py:109} INFO - [2022-10-04 03:21:56,967] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:21:56,976] {logging_mixin.py:109} INFO - [2022-10-04 03:21:56,976] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:21:56,981] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.057 seconds
+[2022-10-04 03:22:27,084] {processor.py:163} INFO - Started process (PID=2680) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:22:27,091] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:22:27,091] {logging_mixin.py:109} INFO - [2022-10-04 03:22:27,091] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:22:27,108] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:22:27,113] {logging_mixin.py:109} INFO - [2022-10-04 03:22:27,113] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:22:27,122] {logging_mixin.py:109} INFO - [2022-10-04 03:22:27,122] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:22:27,128] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 03:22:57,266] {processor.py:163} INFO - Started process (PID=2702) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:22:57,273] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:22:57,273] {logging_mixin.py:109} INFO - [2022-10-04 03:22:57,273] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:22:57,292] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:22:57,297] {logging_mixin.py:109} INFO - [2022-10-04 03:22:57,297] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:22:57,306] {logging_mixin.py:109} INFO - [2022-10-04 03:22:57,306] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:22:57,311] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 03:23:27,446] {processor.py:163} INFO - Started process (PID=2734) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:23:27,453] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:23:27,453] {logging_mixin.py:109} INFO - [2022-10-04 03:23:27,453] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:23:27,470] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:23:27,475] {logging_mixin.py:109} INFO - [2022-10-04 03:23:27,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:23:27,484] {logging_mixin.py:109} INFO - [2022-10-04 03:23:27,484] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:23:27,488] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 03:23:57,617] {processor.py:163} INFO - Started process (PID=2766) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:23:57,623] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:23:57,624] {logging_mixin.py:109} INFO - [2022-10-04 03:23:57,624] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:23:57,641] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:23:57,646] {logging_mixin.py:109} INFO - [2022-10-04 03:23:57,646] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:23:57,655] {logging_mixin.py:109} INFO - [2022-10-04 03:23:57,655] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:23:57,660] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 03:24:27,777] {processor.py:163} INFO - Started process (PID=2787) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:24:27,785] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:24:27,786] {logging_mixin.py:109} INFO - [2022-10-04 03:24:27,785] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:24:27,808] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:24:27,813] {logging_mixin.py:109} INFO - [2022-10-04 03:24:27,813] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:24:27,821] {logging_mixin.py:109} INFO - [2022-10-04 03:24:27,821] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:24:27,827] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:24:58,050] {processor.py:163} INFO - Started process (PID=2818) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:24:58,057] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:24:58,057] {logging_mixin.py:109} INFO - [2022-10-04 03:24:58,057] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:24:58,075] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:24:58,080] {logging_mixin.py:109} INFO - [2022-10-04 03:24:58,080] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:24:58,090] {logging_mixin.py:109} INFO - [2022-10-04 03:24:58,089] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:24:58,094] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 03:25:28,226] {processor.py:163} INFO - Started process (PID=2841) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:25:28,233] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:25:28,233] {logging_mixin.py:109} INFO - [2022-10-04 03:25:28,233] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:25:28,250] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:25:28,255] {logging_mixin.py:109} INFO - [2022-10-04 03:25:28,255] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:25:28,265] {logging_mixin.py:109} INFO - [2022-10-04 03:25:28,265] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:25:28,270] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 03:25:58,387] {processor.py:163} INFO - Started process (PID=2872) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:25:58,394] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:25:58,395] {logging_mixin.py:109} INFO - [2022-10-04 03:25:58,395] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:25:58,418] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:25:58,423] {logging_mixin.py:109} INFO - [2022-10-04 03:25:58,423] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:25:58,432] {logging_mixin.py:109} INFO - [2022-10-04 03:25:58,432] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:25:58,437] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:26:28,556] {processor.py:163} INFO - Started process (PID=2894) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:26:28,563] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:26:28,564] {logging_mixin.py:109} INFO - [2022-10-04 03:26:28,564] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:26:28,586] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:26:28,592] {logging_mixin.py:109} INFO - [2022-10-04 03:26:28,592] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:26:28,602] {logging_mixin.py:109} INFO - [2022-10-04 03:26:28,602] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:26:28,607] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 03:26:58,717] {processor.py:163} INFO - Started process (PID=2924) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:26:58,724] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:26:58,724] {logging_mixin.py:109} INFO - [2022-10-04 03:26:58,724] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:26:58,744] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:26:58,750] {logging_mixin.py:109} INFO - [2022-10-04 03:26:58,750] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:26:58,763] {logging_mixin.py:109} INFO - [2022-10-04 03:26:58,763] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:26:58,769] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 03:27:28,889] {processor.py:163} INFO - Started process (PID=2954) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:27:28,896] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:27:28,896] {logging_mixin.py:109} INFO - [2022-10-04 03:27:28,896] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:27:28,922] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:27:28,935] {logging_mixin.py:109} INFO - [2022-10-04 03:27:28,934] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:27:28,955] {logging_mixin.py:109} INFO - [2022-10-04 03:27:28,954] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:27:28,965] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.079 seconds
+[2022-10-04 03:27:59,065] {processor.py:163} INFO - Started process (PID=2975) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:27:59,066] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:27:59,066] {logging_mixin.py:109} INFO - [2022-10-04 03:27:59,066] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:27:59,085] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:27:59,093] {logging_mixin.py:109} INFO - [2022-10-04 03:27:59,093] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:27:59,103] {logging_mixin.py:109} INFO - [2022-10-04 03:27:59,103] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:27:59,108] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 03:28:29,355] {processor.py:163} INFO - Started process (PID=3008) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:28:29,363] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:28:29,364] {logging_mixin.py:109} INFO - [2022-10-04 03:28:29,364] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:28:29,386] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:28:29,392] {logging_mixin.py:109} INFO - [2022-10-04 03:28:29,392] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:28:29,404] {logging_mixin.py:109} INFO - [2022-10-04 03:28:29,404] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:28:29,409] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:28:59,497] {processor.py:163} INFO - Started process (PID=3029) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:28:59,498] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:28:59,499] {logging_mixin.py:109} INFO - [2022-10-04 03:28:59,499] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:28:59,517] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:28:59,522] {logging_mixin.py:109} INFO - [2022-10-04 03:28:59,522] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:28:59,533] {logging_mixin.py:109} INFO - [2022-10-04 03:28:59,533] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:28:59,538] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.043 seconds
+[2022-10-04 03:29:29,649] {processor.py:163} INFO - Started process (PID=3060) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:29:29,651] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:29:29,651] {logging_mixin.py:109} INFO - [2022-10-04 03:29:29,651] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:29:29,672] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:29:29,678] {logging_mixin.py:109} INFO - [2022-10-04 03:29:29,678] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:29:29,686] {logging_mixin.py:109} INFO - [2022-10-04 03:29:29,686] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:29:29,692] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 03:29:59,791] {processor.py:163} INFO - Started process (PID=3089) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:29:59,799] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:29:59,800] {logging_mixin.py:109} INFO - [2022-10-04 03:29:59,800] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:29:59,848] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:29:59,856] {logging_mixin.py:109} INFO - [2022-10-04 03:29:59,856] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:29:59,875] {logging_mixin.py:109} INFO - [2022-10-04 03:29:59,875] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:29:59,884] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.095 seconds
+[2022-10-04 03:30:29,977] {processor.py:163} INFO - Started process (PID=3110) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:30:29,979] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:30:29,979] {logging_mixin.py:109} INFO - [2022-10-04 03:30:29,979] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:30:29,997] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:30:30,002] {logging_mixin.py:109} INFO - [2022-10-04 03:30:30,002] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:30:30,011] {logging_mixin.py:109} INFO - [2022-10-04 03:30:30,011] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:30:30,016] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.041 seconds
+[2022-10-04 03:31:00,174] {processor.py:163} INFO - Started process (PID=3140) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:31:00,181] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:31:00,182] {logging_mixin.py:109} INFO - [2022-10-04 03:31:00,182] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:31:00,207] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:31:00,212] {logging_mixin.py:109} INFO - [2022-10-04 03:31:00,212] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:31:00,221] {logging_mixin.py:109} INFO - [2022-10-04 03:31:00,221] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:31:00,226] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.057 seconds
+[2022-10-04 03:31:30,351] {processor.py:163} INFO - Started process (PID=3162) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:31:30,359] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:31:30,360] {logging_mixin.py:109} INFO - [2022-10-04 03:31:30,360] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:31:30,383] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:31:30,388] {logging_mixin.py:109} INFO - [2022-10-04 03:31:30,388] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:31:30,397] {logging_mixin.py:109} INFO - [2022-10-04 03:31:30,397] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:31:30,401] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:32:00,538] {processor.py:163} INFO - Started process (PID=3192) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:32:00,546] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:32:00,547] {logging_mixin.py:109} INFO - [2022-10-04 03:32:00,546] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:32:00,569] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:32:00,575] {logging_mixin.py:109} INFO - [2022-10-04 03:32:00,575] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:32:00,584] {logging_mixin.py:109} INFO - [2022-10-04 03:32:00,584] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:32:00,589] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:32:30,693] {processor.py:163} INFO - Started process (PID=3223) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:32:30,700] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:32:30,700] {logging_mixin.py:109} INFO - [2022-10-04 03:32:30,700] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:32:30,720] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:32:30,727] {logging_mixin.py:109} INFO - [2022-10-04 03:32:30,727] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:32:30,740] {logging_mixin.py:109} INFO - [2022-10-04 03:32:30,739] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:32:30,745] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 03:33:00,885] {processor.py:163} INFO - Started process (PID=3245) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:33:00,892] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:33:00,893] {logging_mixin.py:109} INFO - [2022-10-04 03:33:00,893] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:33:00,917] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:33:00,925] {logging_mixin.py:109} INFO - [2022-10-04 03:33:00,925] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:33:00,935] {logging_mixin.py:109} INFO - [2022-10-04 03:33:00,935] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:33:00,940] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.058 seconds
+[2022-10-04 03:33:31,053] {processor.py:163} INFO - Started process (PID=3275) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:33:31,060] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:33:31,060] {logging_mixin.py:109} INFO - [2022-10-04 03:33:31,060] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:33:31,111] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:33:31,123] {logging_mixin.py:109} INFO - [2022-10-04 03:33:31,123] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:33:31,136] {logging_mixin.py:109} INFO - [2022-10-04 03:33:31,135] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:33:31,144] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.093 seconds
+[2022-10-04 03:34:01,260] {processor.py:163} INFO - Started process (PID=3297) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:34:01,268] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:34:01,269] {logging_mixin.py:109} INFO - [2022-10-04 03:34:01,269] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:34:01,292] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:34:01,298] {logging_mixin.py:109} INFO - [2022-10-04 03:34:01,298] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:34:01,307] {logging_mixin.py:109} INFO - [2022-10-04 03:34:01,307] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:34:01,313] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.058 seconds
+[2022-10-04 03:34:31,431] {processor.py:163} INFO - Started process (PID=3328) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:34:31,438] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:34:31,438] {logging_mixin.py:109} INFO - [2022-10-04 03:34:31,438] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:34:31,456] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:34:31,461] {logging_mixin.py:109} INFO - [2022-10-04 03:34:31,461] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:34:31,471] {logging_mixin.py:109} INFO - [2022-10-04 03:34:31,471] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:34:31,476] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 03:35:01,634] {processor.py:163} INFO - Started process (PID=3358) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:35:01,641] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:35:01,641] {logging_mixin.py:109} INFO - [2022-10-04 03:35:01,641] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:35:01,659] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:35:01,666] {logging_mixin.py:109} INFO - [2022-10-04 03:35:01,666] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:35:01,679] {logging_mixin.py:109} INFO - [2022-10-04 03:35:01,678] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:35:01,684] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.052 seconds
+[2022-10-04 03:35:31,822] {processor.py:163} INFO - Started process (PID=3378) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:35:31,829] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:35:31,830] {logging_mixin.py:109} INFO - [2022-10-04 03:35:31,830] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:35:31,853] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:35:31,858] {logging_mixin.py:109} INFO - [2022-10-04 03:35:31,858] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:35:31,867] {logging_mixin.py:109} INFO - [2022-10-04 03:35:31,867] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:35:31,872] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 03:36:01,989] {processor.py:163} INFO - Started process (PID=3408) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:36:01,996] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:36:01,997] {logging_mixin.py:109} INFO - [2022-10-04 03:36:01,997] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:36:02,018] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:36:02,024] {logging_mixin.py:109} INFO - [2022-10-04 03:36:02,024] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:36:02,034] {logging_mixin.py:109} INFO - [2022-10-04 03:36:02,034] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:36:02,038] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:36:32,167] {processor.py:163} INFO - Started process (PID=3429) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:36:32,168] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:36:32,168] {logging_mixin.py:109} INFO - [2022-10-04 03:36:32,168] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:36:32,184] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:36:32,189] {logging_mixin.py:109} INFO - [2022-10-04 03:36:32,189] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:36:32,197] {logging_mixin.py:109} INFO - [2022-10-04 03:36:32,197] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:36:32,201] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.036 seconds
+[2022-10-04 03:37:02,310] {processor.py:163} INFO - Started process (PID=3459) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:37:02,310] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:37:02,311] {logging_mixin.py:109} INFO - [2022-10-04 03:37:02,311] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:37:02,327] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:37:02,331] {logging_mixin.py:109} INFO - [2022-10-04 03:37:02,331] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:37:02,340] {logging_mixin.py:109} INFO - [2022-10-04 03:37:02,340] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:37:02,344] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.036 seconds
+[2022-10-04 03:37:32,449] {processor.py:163} INFO - Started process (PID=3489) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:37:32,456] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:37:32,456] {logging_mixin.py:109} INFO - [2022-10-04 03:37:32,456] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:37:32,475] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:37:32,482] {logging_mixin.py:109} INFO - [2022-10-04 03:37:32,481] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:37:32,495] {logging_mixin.py:109} INFO - [2022-10-04 03:37:32,495] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:37:32,502] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:38:02,645] {processor.py:163} INFO - Started process (PID=3510) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:38:02,653] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:38:02,654] {logging_mixin.py:109} INFO - [2022-10-04 03:38:02,654] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:38:02,677] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:38:02,681] {logging_mixin.py:109} INFO - [2022-10-04 03:38:02,681] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:38:02,690] {logging_mixin.py:109} INFO - [2022-10-04 03:38:02,690] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:38:02,694] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:38:32,810] {processor.py:163} INFO - Started process (PID=3541) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:38:32,817] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:38:32,818] {logging_mixin.py:109} INFO - [2022-10-04 03:38:32,818] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:38:32,842] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:38:32,847] {logging_mixin.py:109} INFO - [2022-10-04 03:38:32,847] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:38:32,856] {logging_mixin.py:109} INFO - [2022-10-04 03:38:32,856] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:38:32,860] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.052 seconds
+[2022-10-04 03:39:02,944] {processor.py:163} INFO - Started process (PID=3562) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:39:02,951] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:39:02,951] {logging_mixin.py:109} INFO - [2022-10-04 03:39:02,951] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:39:02,968] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:39:02,974] {logging_mixin.py:109} INFO - [2022-10-04 03:39:02,974] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:39:02,983] {logging_mixin.py:109} INFO - [2022-10-04 03:39:02,983] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:39:02,988] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 03:39:33,146] {processor.py:163} INFO - Started process (PID=3592) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:39:33,148] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:39:33,148] {logging_mixin.py:109} INFO - [2022-10-04 03:39:33,148] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:39:33,168] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:39:33,174] {logging_mixin.py:109} INFO - [2022-10-04 03:39:33,173] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:39:33,182] {logging_mixin.py:109} INFO - [2022-10-04 03:39:33,182] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:39:33,188] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 03:40:03,360] {processor.py:163} INFO - Started process (PID=3622) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:40:03,361] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:40:03,361] {logging_mixin.py:109} INFO - [2022-10-04 03:40:03,361] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:40:03,384] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:40:03,393] {logging_mixin.py:109} INFO - [2022-10-04 03:40:03,393] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:40:03,412] {logging_mixin.py:109} INFO - [2022-10-04 03:40:03,412] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:40:03,422] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.065 seconds
+[2022-10-04 03:40:33,512] {processor.py:163} INFO - Started process (PID=3643) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:40:33,520] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:40:33,521] {logging_mixin.py:109} INFO - [2022-10-04 03:40:33,520] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:40:33,543] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:40:33,548] {logging_mixin.py:109} INFO - [2022-10-04 03:40:33,548] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:40:33,557] {logging_mixin.py:109} INFO - [2022-10-04 03:40:33,557] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:40:33,562] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:41:03,672] {processor.py:163} INFO - Started process (PID=3674) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:41:03,679] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:41:03,680] {logging_mixin.py:109} INFO - [2022-10-04 03:41:03,680] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:41:03,697] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:41:03,704] {logging_mixin.py:109} INFO - [2022-10-04 03:41:03,704] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:41:03,716] {logging_mixin.py:109} INFO - [2022-10-04 03:41:03,716] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:41:03,722] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.052 seconds
+[2022-10-04 03:41:33,839] {processor.py:163} INFO - Started process (PID=3695) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:41:33,846] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:41:33,847] {logging_mixin.py:109} INFO - [2022-10-04 03:41:33,847] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:41:33,871] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:41:33,877] {logging_mixin.py:109} INFO - [2022-10-04 03:41:33,877] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:41:33,886] {logging_mixin.py:109} INFO - [2022-10-04 03:41:33,886] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:41:33,890] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 03:42:03,997] {processor.py:163} INFO - Started process (PID=3725) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:42:04,004] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:42:04,005] {logging_mixin.py:109} INFO - [2022-10-04 03:42:04,004] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:42:04,022] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:42:04,028] {logging_mixin.py:109} INFO - [2022-10-04 03:42:04,028] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:42:04,038] {logging_mixin.py:109} INFO - [2022-10-04 03:42:04,037] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:42:04,042] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.047 seconds
+[2022-10-04 03:42:34,158] {processor.py:163} INFO - Started process (PID=3755) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:42:34,165] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:42:34,166] {logging_mixin.py:109} INFO - [2022-10-04 03:42:34,166] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:42:34,183] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:42:34,188] {logging_mixin.py:109} INFO - [2022-10-04 03:42:34,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:42:34,200] {logging_mixin.py:109} INFO - [2022-10-04 03:42:34,200] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:42:34,206] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.049 seconds
+[2022-10-04 03:43:04,359] {processor.py:163} INFO - Started process (PID=3775) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:43:04,366] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:43:04,366] {logging_mixin.py:109} INFO - [2022-10-04 03:43:04,366] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:43:04,383] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:43:04,388] {logging_mixin.py:109} INFO - [2022-10-04 03:43:04,388] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:43:04,397] {logging_mixin.py:109} INFO - [2022-10-04 03:43:04,397] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:43:04,402] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 03:43:34,528] {processor.py:163} INFO - Started process (PID=3805) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:43:34,535] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:43:34,536] {logging_mixin.py:109} INFO - [2022-10-04 03:43:34,536] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:43:34,558] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:43:34,563] {logging_mixin.py:109} INFO - [2022-10-04 03:43:34,563] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:43:34,572] {logging_mixin.py:109} INFO - [2022-10-04 03:43:34,572] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:43:34,577] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:44:04,701] {processor.py:163} INFO - Started process (PID=3826) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:44:04,704] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:44:04,705] {logging_mixin.py:109} INFO - [2022-10-04 03:44:04,704] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:44:04,727] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:44:04,732] {logging_mixin.py:109} INFO - [2022-10-04 03:44:04,732] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:44:04,742] {logging_mixin.py:109} INFO - [2022-10-04 03:44:04,742] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:44:04,747] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.052 seconds
+[2022-10-04 03:44:34,872] {processor.py:163} INFO - Started process (PID=3856) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:44:34,878] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:44:34,879] {logging_mixin.py:109} INFO - [2022-10-04 03:44:34,879] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:44:34,895] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:44:34,900] {logging_mixin.py:109} INFO - [2022-10-04 03:44:34,900] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:44:34,909] {logging_mixin.py:109} INFO - [2022-10-04 03:44:34,909] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:44:34,914] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 03:45:05,096] {processor.py:163} INFO - Started process (PID=3886) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:45:05,103] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:45:05,103] {logging_mixin.py:109} INFO - [2022-10-04 03:45:05,103] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:45:05,119] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:45:05,124] {logging_mixin.py:109} INFO - [2022-10-04 03:45:05,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:45:05,133] {logging_mixin.py:109} INFO - [2022-10-04 03:45:05,133] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:45:05,138] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 03:45:35,237] {processor.py:163} INFO - Started process (PID=3907) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:45:35,244] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:45:35,244] {logging_mixin.py:109} INFO - [2022-10-04 03:45:35,244] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:45:35,298] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:45:35,305] {logging_mixin.py:109} INFO - [2022-10-04 03:45:35,305] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:45:35,318] {logging_mixin.py:109} INFO - [2022-10-04 03:45:35,318] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:45:35,325] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.089 seconds
+[2022-10-04 03:46:05,423] {processor.py:163} INFO - Started process (PID=3937) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:46:05,431] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:46:05,431] {logging_mixin.py:109} INFO - [2022-10-04 03:46:05,431] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:46:05,459] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:46:05,465] {logging_mixin.py:109} INFO - [2022-10-04 03:46:05,464] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:46:05,474] {logging_mixin.py:109} INFO - [2022-10-04 03:46:05,474] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:46:05,479] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.061 seconds
+[2022-10-04 03:46:35,627] {processor.py:163} INFO - Started process (PID=3958) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:46:35,635] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:46:35,636] {logging_mixin.py:109} INFO - [2022-10-04 03:46:35,636] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:46:35,658] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:46:35,663] {logging_mixin.py:109} INFO - [2022-10-04 03:46:35,663] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:46:35,672] {logging_mixin.py:109} INFO - [2022-10-04 03:46:35,672] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:46:35,676] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:47:05,802] {processor.py:163} INFO - Started process (PID=3988) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:47:05,810] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:47:05,811] {logging_mixin.py:109} INFO - [2022-10-04 03:47:05,811] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:47:05,835] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:47:05,840] {logging_mixin.py:109} INFO - [2022-10-04 03:47:05,840] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:47:05,850] {logging_mixin.py:109} INFO - [2022-10-04 03:47:05,850] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:47:05,855] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.059 seconds
+[2022-10-04 03:47:35,970] {processor.py:163} INFO - Started process (PID=4016) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:47:35,971] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:47:35,972] {logging_mixin.py:109} INFO - [2022-10-04 03:47:35,971] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:47:35,990] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:47:35,995] {logging_mixin.py:109} INFO - [2022-10-04 03:47:35,995] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:47:36,005] {logging_mixin.py:109} INFO - [2022-10-04 03:47:36,005] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:47:36,010] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.042 seconds
+[2022-10-04 03:48:06,142] {processor.py:163} INFO - Started process (PID=4040) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:48:06,149] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:48:06,150] {logging_mixin.py:109} INFO - [2022-10-04 03:48:06,150] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:48:06,183] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:48:06,188] {logging_mixin.py:109} INFO - [2022-10-04 03:48:06,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:48:06,196] {logging_mixin.py:109} INFO - [2022-10-04 03:48:06,196] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:48:06,202] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.064 seconds
+[2022-10-04 03:48:36,287] {processor.py:163} INFO - Started process (PID=4070) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:48:36,294] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:48:36,295] {logging_mixin.py:109} INFO - [2022-10-04 03:48:36,295] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:48:36,314] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:48:36,320] {logging_mixin.py:109} INFO - [2022-10-04 03:48:36,320] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:48:36,330] {logging_mixin.py:109} INFO - [2022-10-04 03:48:36,329] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:48:36,336] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 03:49:06,479] {processor.py:163} INFO - Started process (PID=4091) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:49:06,487] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:49:06,488] {logging_mixin.py:109} INFO - [2022-10-04 03:49:06,488] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:49:06,512] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:49:06,517] {logging_mixin.py:109} INFO - [2022-10-04 03:49:06,517] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:49:06,526] {logging_mixin.py:109} INFO - [2022-10-04 03:49:06,526] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:49:06,530] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:49:36,663] {processor.py:163} INFO - Started process (PID=4121) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:49:36,670] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:49:36,671] {logging_mixin.py:109} INFO - [2022-10-04 03:49:36,671] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:49:36,693] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:49:36,698] {logging_mixin.py:109} INFO - [2022-10-04 03:49:36,698] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:49:36,707] {logging_mixin.py:109} INFO - [2022-10-04 03:49:36,707] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:49:36,711] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.053 seconds
+[2022-10-04 03:50:06,817] {processor.py:163} INFO - Started process (PID=4143) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:50:06,825] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:50:06,826] {logging_mixin.py:109} INFO - [2022-10-04 03:50:06,826] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:50:06,848] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:50:06,853] {logging_mixin.py:109} INFO - [2022-10-04 03:50:06,853] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:50:06,863] {logging_mixin.py:109} INFO - [2022-10-04 03:50:06,863] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:50:06,868] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 03:50:37,022] {processor.py:163} INFO - Started process (PID=4172) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:50:37,030] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:50:37,031] {logging_mixin.py:109} INFO - [2022-10-04 03:50:37,031] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:50:37,053] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:50:37,058] {logging_mixin.py:109} INFO - [2022-10-04 03:50:37,058] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:50:37,067] {logging_mixin.py:109} INFO - [2022-10-04 03:50:37,067] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:50:37,072] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:51:07,190] {processor.py:163} INFO - Started process (PID=4202) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:51:07,197] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:51:07,197] {logging_mixin.py:109} INFO - [2022-10-04 03:51:07,197] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:51:07,214] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:51:07,220] {logging_mixin.py:109} INFO - [2022-10-04 03:51:07,220] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:51:07,230] {logging_mixin.py:109} INFO - [2022-10-04 03:51:07,230] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:51:07,235] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 03:51:37,377] {processor.py:163} INFO - Started process (PID=4223) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:51:37,385] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:51:37,386] {logging_mixin.py:109} INFO - [2022-10-04 03:51:37,386] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:51:37,407] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:51:37,412] {logging_mixin.py:109} INFO - [2022-10-04 03:51:37,412] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:51:37,421] {logging_mixin.py:109} INFO - [2022-10-04 03:51:37,421] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:51:37,425] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.052 seconds
+[2022-10-04 03:52:07,528] {processor.py:163} INFO - Started process (PID=4253) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:52:07,534] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:52:07,535] {logging_mixin.py:109} INFO - [2022-10-04 03:52:07,535] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:52:07,551] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:52:07,557] {logging_mixin.py:109} INFO - [2022-10-04 03:52:07,557] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:52:07,566] {logging_mixin.py:109} INFO - [2022-10-04 03:52:07,566] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:52:07,571] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 03:52:37,701] {processor.py:163} INFO - Started process (PID=4274) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:52:37,708] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:52:37,709] {logging_mixin.py:109} INFO - [2022-10-04 03:52:37,709] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:52:37,736] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:52:37,742] {logging_mixin.py:109} INFO - [2022-10-04 03:52:37,742] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:52:37,751] {logging_mixin.py:109} INFO - [2022-10-04 03:52:37,751] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:52:37,756] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.060 seconds
+[2022-10-04 03:53:07,871] {processor.py:163} INFO - Started process (PID=4305) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:53:07,872] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:53:07,872] {logging_mixin.py:109} INFO - [2022-10-04 03:53:07,872] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:53:07,891] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:53:07,898] {logging_mixin.py:109} INFO - [2022-10-04 03:53:07,898] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:53:07,908] {logging_mixin.py:109} INFO - [2022-10-04 03:53:07,908] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:53:07,913] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 03:53:38,041] {processor.py:163} INFO - Started process (PID=4327) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:53:38,049] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:53:38,050] {logging_mixin.py:109} INFO - [2022-10-04 03:53:38,049] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:53:38,072] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:53:38,081] {logging_mixin.py:109} INFO - [2022-10-04 03:53:38,081] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:53:38,096] {logging_mixin.py:109} INFO - [2022-10-04 03:53:38,096] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:53:38,101] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.064 seconds
+[2022-10-04 03:54:08,188] {processor.py:163} INFO - Started process (PID=4357) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:54:08,196] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:54:08,196] {logging_mixin.py:109} INFO - [2022-10-04 03:54:08,196] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:54:08,219] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:54:08,224] {logging_mixin.py:109} INFO - [2022-10-04 03:54:08,224] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:54:08,232] {logging_mixin.py:109} INFO - [2022-10-04 03:54:08,232] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:54:08,237] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:54:38,368] {processor.py:163} INFO - Started process (PID=4388) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:54:38,369] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:54:38,370] {logging_mixin.py:109} INFO - [2022-10-04 03:54:38,370] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:54:38,391] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:54:38,398] {logging_mixin.py:109} INFO - [2022-10-04 03:54:38,397] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:54:38,408] {logging_mixin.py:109} INFO - [2022-10-04 03:54:38,408] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:54:38,414] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 03:55:08,555] {processor.py:163} INFO - Started process (PID=4409) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:55:08,557] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:55:08,557] {logging_mixin.py:109} INFO - [2022-10-04 03:55:08,557] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:55:08,576] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:55:08,581] {logging_mixin.py:109} INFO - [2022-10-04 03:55:08,581] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:55:08,590] {logging_mixin.py:109} INFO - [2022-10-04 03:55:08,590] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:55:08,594] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 03:55:38,715] {processor.py:163} INFO - Started process (PID=4439) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:55:38,722] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:55:38,723] {logging_mixin.py:109} INFO - [2022-10-04 03:55:38,723] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:55:38,745] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:55:38,750] {logging_mixin.py:109} INFO - [2022-10-04 03:55:38,750] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:55:38,759] {logging_mixin.py:109} INFO - [2022-10-04 03:55:38,759] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:55:38,764] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:56:08,895] {processor.py:163} INFO - Started process (PID=4458) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:56:08,896] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:56:08,896] {logging_mixin.py:109} INFO - [2022-10-04 03:56:08,896] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:56:08,912] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:56:08,917] {logging_mixin.py:109} INFO - [2022-10-04 03:56:08,916] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:56:08,925] {logging_mixin.py:109} INFO - [2022-10-04 03:56:08,925] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:56:08,930] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.036 seconds
+[2022-10-04 03:56:39,045] {processor.py:163} INFO - Started process (PID=4488) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:56:39,050] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:56:39,051] {logging_mixin.py:109} INFO - [2022-10-04 03:56:39,051] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:56:39,074] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:56:39,080] {logging_mixin.py:109} INFO - [2022-10-04 03:56:39,079] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:56:39,091] {logging_mixin.py:109} INFO - [2022-10-04 03:56:39,091] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:56:39,097] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 03:57:09,201] {processor.py:163} INFO - Started process (PID=4518) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:57:09,208] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:57:09,208] {logging_mixin.py:109} INFO - [2022-10-04 03:57:09,208] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:57:09,226] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:57:09,238] {logging_mixin.py:109} INFO - [2022-10-04 03:57:09,238] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:57:09,249] {logging_mixin.py:109} INFO - [2022-10-04 03:57:09,249] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:57:09,254] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 03:57:39,372] {processor.py:163} INFO - Started process (PID=4539) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:57:39,380] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:57:39,381] {logging_mixin.py:109} INFO - [2022-10-04 03:57:39,381] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:57:39,402] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:57:39,407] {logging_mixin.py:109} INFO - [2022-10-04 03:57:39,407] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:57:39,417] {logging_mixin.py:109} INFO - [2022-10-04 03:57:39,417] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:57:39,421] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.054 seconds
+[2022-10-04 03:58:09,538] {processor.py:163} INFO - Started process (PID=4569) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:58:09,539] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:58:09,540] {logging_mixin.py:109} INFO - [2022-10-04 03:58:09,540] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:58:09,560] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:58:09,565] {logging_mixin.py:109} INFO - [2022-10-04 03:58:09,565] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:58:09,577] {logging_mixin.py:109} INFO - [2022-10-04 03:58:09,576] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:58:09,582] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 03:58:39,702] {processor.py:163} INFO - Started process (PID=4590) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:58:39,710] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:58:39,711] {logging_mixin.py:109} INFO - [2022-10-04 03:58:39,711] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:58:39,751] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:58:39,763] {logging_mixin.py:109} INFO - [2022-10-04 03:58:39,763] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:58:39,787] {logging_mixin.py:109} INFO - [2022-10-04 03:58:39,787] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:58:39,798] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.102 seconds
+[2022-10-04 03:59:09,907] {processor.py:163} INFO - Started process (PID=4620) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:59:09,907] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 03:59:09,908] {logging_mixin.py:109} INFO - [2022-10-04 03:59:09,908] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:59:09,924] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 03:59:09,929] {logging_mixin.py:109} INFO - [2022-10-04 03:59:09,929] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 03:59:09,939] {logging_mixin.py:109} INFO - [2022-10-04 03:59:09,939] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 03:59:09,943] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.040 seconds
+[2022-10-04 04:09:36,747] {processor.py:163} INFO - Started process (PID=150) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:09:36,747] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:09:36,748] {logging_mixin.py:109} INFO - [2022-10-04 04:09:36,748] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:09:36,767] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:09:36,773] {logging_mixin.py:109} INFO - [2022-10-04 04:09:36,772] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:09:36,783] {logging_mixin.py:109} INFO - [2022-10-04 04:09:36,783] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:09:36,788] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 04:10:06,897] {processor.py:163} INFO - Started process (PID=181) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:10:06,898] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:10:06,898] {logging_mixin.py:109} INFO - [2022-10-04 04:10:06,898] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:10:06,920] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:10:06,926] {logging_mixin.py:109} INFO - [2022-10-04 04:10:06,926] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:10:06,938] {logging_mixin.py:109} INFO - [2022-10-04 04:10:06,938] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:10:06,945] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 04:10:37,071] {processor.py:163} INFO - Started process (PID=202) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:10:37,071] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:10:37,072] {logging_mixin.py:109} INFO - [2022-10-04 04:10:37,072] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:10:37,089] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:10:37,094] {logging_mixin.py:109} INFO - [2022-10-04 04:10:37,094] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:10:37,104] {logging_mixin.py:109} INFO - [2022-10-04 04:10:37,104] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:10:37,108] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.039 seconds
+[2022-10-04 04:11:07,245] {processor.py:163} INFO - Started process (PID=233) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:11:07,246] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:11:07,246] {logging_mixin.py:109} INFO - [2022-10-04 04:11:07,246] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:11:07,268] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:11:07,277] {logging_mixin.py:109} INFO - [2022-10-04 04:11:07,277] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:11:07,294] {logging_mixin.py:109} INFO - [2022-10-04 04:11:07,293] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:11:07,302] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.059 seconds
+[2022-10-04 04:11:37,416] {processor.py:163} INFO - Started process (PID=253) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:11:37,417] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:11:37,417] {logging_mixin.py:109} INFO - [2022-10-04 04:11:37,417] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:11:37,437] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:11:37,444] {logging_mixin.py:109} INFO - [2022-10-04 04:11:37,444] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:11:37,458] {logging_mixin.py:109} INFO - [2022-10-04 04:11:37,458] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:11:37,464] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.050 seconds
+[2022-10-04 04:12:07,603] {processor.py:163} INFO - Started process (PID=283) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:12:07,604] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:12:07,604] {logging_mixin.py:109} INFO - [2022-10-04 04:12:07,604] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:12:07,628] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:12:07,635] {logging_mixin.py:109} INFO - [2022-10-04 04:12:07,635] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:12:07,649] {logging_mixin.py:109} INFO - [2022-10-04 04:12:07,649] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:12:07,655] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.055 seconds
+[2022-10-04 04:12:37,763] {processor.py:163} INFO - Started process (PID=304) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:12:37,764] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:12:37,765] {logging_mixin.py:109} INFO - [2022-10-04 04:12:37,765] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:12:37,785] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:12:37,790] {logging_mixin.py:109} INFO - [2022-10-04 04:12:37,790] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:12:37,803] {logging_mixin.py:109} INFO - [2022-10-04 04:12:37,802] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:12:37,807] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 04:13:07,907] {processor.py:163} INFO - Started process (PID=333) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:13:07,908] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:13:07,908] {logging_mixin.py:109} INFO - [2022-10-04 04:13:07,908] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:13:07,925] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:13:07,930] {logging_mixin.py:109} INFO - [2022-10-04 04:13:07,930] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:13:07,940] {logging_mixin.py:109} INFO - [2022-10-04 04:13:07,940] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:13:07,945] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.039 seconds
+[2022-10-04 04:13:38,063] {processor.py:163} INFO - Started process (PID=354) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:13:38,064] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:13:38,064] {logging_mixin.py:109} INFO - [2022-10-04 04:13:38,064] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:13:38,095] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:13:38,101] {logging_mixin.py:109} INFO - [2022-10-04 04:13:38,101] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:13:38,113] {logging_mixin.py:109} INFO - [2022-10-04 04:13:38,112] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:13:38,118] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 04:14:08,221] {processor.py:163} INFO - Started process (PID=383) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:14:08,221] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:14:08,222] {logging_mixin.py:109} INFO - [2022-10-04 04:14:08,222] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:14:08,238] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:14:08,243] {logging_mixin.py:109} INFO - [2022-10-04 04:14:08,242] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:14:08,254] {logging_mixin.py:109} INFO - [2022-10-04 04:14:08,253] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:14:08,258] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.039 seconds
+[2022-10-04 04:14:38,388] {processor.py:163} INFO - Started process (PID=413) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:14:38,388] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:14:38,389] {logging_mixin.py:109} INFO - [2022-10-04 04:14:38,389] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:14:38,407] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:14:38,416] {logging_mixin.py:109} INFO - [2022-10-04 04:14:38,415] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:14:38,429] {logging_mixin.py:109} INFO - [2022-10-04 04:14:38,429] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:14:38,435] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.049 seconds
+[2022-10-04 04:15:08,518] {processor.py:163} INFO - Started process (PID=434) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:15:08,519] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:15:08,520] {logging_mixin.py:109} INFO - [2022-10-04 04:15:08,520] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:15:08,551] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:15:08,558] {logging_mixin.py:109} INFO - [2022-10-04 04:15:08,558] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:15:08,569] {logging_mixin.py:109} INFO - [2022-10-04 04:15:08,569] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:15:08,574] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.060 seconds
+[2022-10-04 04:15:38,677] {processor.py:163} INFO - Started process (PID=462) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:15:38,677] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:15:38,678] {logging_mixin.py:109} INFO - [2022-10-04 04:15:38,678] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:15:38,696] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:15:38,701] {logging_mixin.py:109} INFO - [2022-10-04 04:15:38,701] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:15:38,715] {logging_mixin.py:109} INFO - [2022-10-04 04:15:38,714] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:15:38,721] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 04:16:08,835] {processor.py:163} INFO - Started process (PID=482) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:16:08,836] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:16:08,836] {logging_mixin.py:109} INFO - [2022-10-04 04:16:08,836] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:16:08,874] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:16:08,886] {logging_mixin.py:109} INFO - [2022-10-04 04:16:08,886] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:16:08,901] {logging_mixin.py:109} INFO - [2022-10-04 04:16:08,901] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:16:08,914] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.084 seconds
+[2022-10-04 04:16:39,019] {processor.py:163} INFO - Started process (PID=512) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:16:39,020] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:16:39,021] {logging_mixin.py:109} INFO - [2022-10-04 04:16:39,020] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:16:39,043] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:16:39,052] {logging_mixin.py:109} INFO - [2022-10-04 04:16:39,051] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:16:39,064] {logging_mixin.py:109} INFO - [2022-10-04 04:16:39,064] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:16:39,074] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 04:17:09,176] {processor.py:163} INFO - Started process (PID=542) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:17:09,178] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:17:09,178] {logging_mixin.py:109} INFO - [2022-10-04 04:17:09,178] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:17:09,209] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:17:09,221] {logging_mixin.py:109} INFO - [2022-10-04 04:17:09,221] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:17:09,277] {logging_mixin.py:109} INFO - [2022-10-04 04:17:09,276] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:17:09,288] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.113 seconds
+[2022-10-04 04:17:39,385] {processor.py:163} INFO - Started process (PID=563) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:17:39,388] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:17:39,389] {logging_mixin.py:109} INFO - [2022-10-04 04:17:39,388] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:17:39,407] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:17:39,413] {logging_mixin.py:109} INFO - [2022-10-04 04:17:39,413] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:17:39,423] {logging_mixin.py:109} INFO - [2022-10-04 04:17:39,423] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:17:39,429] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 04:18:09,551] {processor.py:163} INFO - Started process (PID=593) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:18:09,553] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:18:09,554] {logging_mixin.py:109} INFO - [2022-10-04 04:18:09,553] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:18:09,572] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:18:09,579] {logging_mixin.py:109} INFO - [2022-10-04 04:18:09,578] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:18:09,589] {logging_mixin.py:109} INFO - [2022-10-04 04:18:09,589] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:18:09,594] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 04:18:39,684] {processor.py:163} INFO - Started process (PID=614) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:18:39,686] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:18:39,686] {logging_mixin.py:109} INFO - [2022-10-04 04:18:39,686] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:18:39,704] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:18:39,710] {logging_mixin.py:109} INFO - [2022-10-04 04:18:39,710] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:18:39,720] {logging_mixin.py:109} INFO - [2022-10-04 04:18:39,720] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:18:39,726] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 04:19:09,843] {processor.py:163} INFO - Started process (PID=644) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:19:09,843] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:19:09,844] {logging_mixin.py:109} INFO - [2022-10-04 04:19:09,843] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:19:09,861] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:19:09,867] {logging_mixin.py:109} INFO - [2022-10-04 04:19:09,867] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:19:09,877] {logging_mixin.py:109} INFO - [2022-10-04 04:19:09,876] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:19:09,889] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 04:19:40,016] {processor.py:163} INFO - Started process (PID=674) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:19:40,017] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:19:40,017] {logging_mixin.py:109} INFO - [2022-10-04 04:19:40,017] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:19:40,034] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:19:40,040] {logging_mixin.py:109} INFO - [2022-10-04 04:19:40,040] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:19:40,050] {logging_mixin.py:109} INFO - [2022-10-04 04:19:40,050] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:19:40,059] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 04:20:10,150] {processor.py:163} INFO - Started process (PID=695) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:20:10,151] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:20:10,151] {logging_mixin.py:109} INFO - [2022-10-04 04:20:10,151] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:20:10,170] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:20:10,176] {logging_mixin.py:109} INFO - [2022-10-04 04:20:10,176] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:20:10,187] {logging_mixin.py:109} INFO - [2022-10-04 04:20:10,187] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:20:10,192] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 04:20:40,303] {processor.py:163} INFO - Started process (PID=725) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:20:40,303] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:20:40,304] {logging_mixin.py:109} INFO - [2022-10-04 04:20:40,304] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:20:40,326] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:20:40,334] {logging_mixin.py:109} INFO - [2022-10-04 04:20:40,334] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:20:40,349] {logging_mixin.py:109} INFO - [2022-10-04 04:20:40,349] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:20:40,357] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.057 seconds
+[2022-10-04 04:21:10,465] {processor.py:163} INFO - Started process (PID=746) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:21:10,466] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:21:10,467] {logging_mixin.py:109} INFO - [2022-10-04 04:21:10,467] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:21:10,517] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:21:10,527] {logging_mixin.py:109} INFO - [2022-10-04 04:21:10,526] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:21:10,543] {logging_mixin.py:109} INFO - [2022-10-04 04:21:10,543] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:21:10,550] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.093 seconds
+[2022-10-04 04:21:40,663] {processor.py:163} INFO - Started process (PID=774) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:21:40,667] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:21:40,667] {logging_mixin.py:109} INFO - [2022-10-04 04:21:40,667] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:21:40,687] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:21:40,693] {logging_mixin.py:109} INFO - [2022-10-04 04:21:40,693] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:21:40,705] {logging_mixin.py:109} INFO - [2022-10-04 04:21:40,705] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:21:40,710] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 04:22:10,795] {processor.py:163} INFO - Started process (PID=804) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:22:10,799] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:22:10,799] {logging_mixin.py:109} INFO - [2022-10-04 04:22:10,799] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:22:10,817] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:22:10,824] {logging_mixin.py:109} INFO - [2022-10-04 04:22:10,824] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:22:10,837] {logging_mixin.py:109} INFO - [2022-10-04 04:22:10,837] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:22:10,842] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 04:22:40,936] {processor.py:163} INFO - Started process (PID=825) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:22:40,936] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:22:40,937] {logging_mixin.py:109} INFO - [2022-10-04 04:22:40,937] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:22:40,954] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:22:40,960] {logging_mixin.py:109} INFO - [2022-10-04 04:22:40,960] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:22:40,970] {logging_mixin.py:109} INFO - [2022-10-04 04:22:40,970] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:22:40,976] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.043 seconds
+[2022-10-04 04:23:11,073] {processor.py:163} INFO - Started process (PID=855) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:23:11,073] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:23:11,074] {logging_mixin.py:109} INFO - [2022-10-04 04:23:11,074] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:23:11,091] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:23:11,096] {logging_mixin.py:109} INFO - [2022-10-04 04:23:11,096] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:23:11,106] {logging_mixin.py:109} INFO - [2022-10-04 04:23:11,106] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:23:11,111] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.040 seconds
+[2022-10-04 04:23:41,217] {processor.py:163} INFO - Started process (PID=876) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:23:41,217] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:23:41,218] {logging_mixin.py:109} INFO - [2022-10-04 04:23:41,218] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:23:41,234] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:23:41,239] {logging_mixin.py:109} INFO - [2022-10-04 04:23:41,239] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:23:41,249] {logging_mixin.py:109} INFO - [2022-10-04 04:23:41,249] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:23:41,255] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.041 seconds
+[2022-10-04 04:24:11,375] {processor.py:163} INFO - Started process (PID=906) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:24:11,378] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:24:11,378] {logging_mixin.py:109} INFO - [2022-10-04 04:24:11,378] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:24:11,397] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:24:11,402] {logging_mixin.py:109} INFO - [2022-10-04 04:24:11,402] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:24:11,412] {logging_mixin.py:109} INFO - [2022-10-04 04:24:11,411] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:24:11,417] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.043 seconds
+[2022-10-04 04:24:41,520] {processor.py:163} INFO - Started process (PID=936) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:24:41,523] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:24:41,524] {logging_mixin.py:109} INFO - [2022-10-04 04:24:41,524] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:24:41,542] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:24:41,549] {logging_mixin.py:109} INFO - [2022-10-04 04:24:41,548] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:24:41,561] {logging_mixin.py:109} INFO - [2022-10-04 04:24:41,561] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:24:41,567] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.048 seconds
+[2022-10-04 04:25:11,678] {processor.py:163} INFO - Started process (PID=957) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:25:11,681] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:25:11,681] {logging_mixin.py:109} INFO - [2022-10-04 04:25:11,681] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:25:11,699] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:25:11,705] {logging_mixin.py:109} INFO - [2022-10-04 04:25:11,704] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:25:11,715] {logging_mixin.py:109} INFO - [2022-10-04 04:25:11,715] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:25:11,720] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.044 seconds
+[2022-10-04 04:25:41,841] {processor.py:163} INFO - Started process (PID=987) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:25:41,845] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:25:41,845] {logging_mixin.py:109} INFO - [2022-10-04 04:25:41,845] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:25:41,863] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:25:41,869] {logging_mixin.py:109} INFO - [2022-10-04 04:25:41,869] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:25:41,879] {logging_mixin.py:109} INFO - [2022-10-04 04:25:41,879] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:25:41,885] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.045 seconds
+[2022-10-04 04:26:11,972] {processor.py:163} INFO - Started process (PID=1017) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:26:11,974] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:26:11,975] {logging_mixin.py:109} INFO - [2022-10-04 04:26:11,975] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:26:11,998] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:26:12,006] {logging_mixin.py:109} INFO - [2022-10-04 04:26:12,006] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:26:12,020] {logging_mixin.py:109} INFO - [2022-10-04 04:26:12,020] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:26:12,026] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.056 seconds
+[2022-10-04 04:26:42,144] {processor.py:163} INFO - Started process (PID=1038) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:26:42,147] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:26:42,147] {logging_mixin.py:109} INFO - [2022-10-04 04:26:42,147] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:26:42,166] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:26:42,173] {logging_mixin.py:109} INFO - [2022-10-04 04:26:42,173] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:26:42,183] {logging_mixin.py:109} INFO - [2022-10-04 04:26:42,183] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:26:42,189] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.046 seconds
+[2022-10-04 04:27:12,292] {processor.py:163} INFO - Started process (PID=1068) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:27:12,293] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:27:12,293] {logging_mixin.py:109} INFO - [2022-10-04 04:27:12,293] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:27:12,318] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:27:12,326] {logging_mixin.py:109} INFO - [2022-10-04 04:27:12,326] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:27:12,342] {logging_mixin.py:109} INFO - [2022-10-04 04:27:12,341] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:27:12,348] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.059 seconds
+[2022-10-04 04:27:42,476] {processor.py:163} INFO - Started process (PID=1090) to work on /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:27:42,477] {processor.py:642} INFO - Processing file /opt/airflow/dags/spark-setl-scala2.py for tasks to queue
+[2022-10-04 04:27:42,477] {logging_mixin.py:109} INFO - [2022-10-04 04:27:42,477] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:27:42,495] {processor.py:654} INFO - DAG(s) dict_keys(['spark-setl2']) retrieved from /opt/airflow/dags/spark-setl-scala2.py
+[2022-10-04 04:27:42,500] {logging_mixin.py:109} INFO - [2022-10-04 04:27:42,500] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-10-04 04:27:42,510] {logging_mixin.py:109} INFO - [2022-10-04 04:27:42,510] {dag.py:2935} INFO - Setting next_dagrun for spark-setl2 to None
+[2022-10-04 04:27:42,516] {processor.py:171} INFO - Processing /opt/airflow/dags/spark-setl-scala2.py took 0.042 seconds

@@ -1,0 +1,74 @@
+[2022-10-03 16:48:25,221] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: spark-setl3.spark_job_setl3 manual__2022-10-03T16:48:24.916897+00:00 [queued]>
+[2022-10-03 16:48:25,233] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: spark-setl3.spark_job_setl3 manual__2022-10-03T16:48:24.916897+00:00 [queued]>
+[2022-10-03 16:48:25,233] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-03 16:48:25,234] {taskinstance.py:1239} INFO - Starting attempt 1 of 2
+[2022-10-03 16:48:25,234] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-03 16:48:25,251] {taskinstance.py:1259} INFO - Executing <Task(SparkSubmitOperator): spark_job_setl3> on 2022-10-03 16:48:24.916897+00:00
+[2022-10-03 16:48:25,280] {standard_task_runner.py:52} INFO - Started process 487 to run task
+[2022-10-03 16:48:25,283] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'spark-setl3', 'spark_job_setl3', 'manual__2022-10-03T16:48:24.916897+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/spark-setl-scala3.py', '--cfg-path', '/tmp/tmpm_7ij6fj', '--error-file', '/tmp/tmpqi_w83qz']
+[2022-10-03 16:48:25,283] {standard_task_runner.py:77} INFO - Job 4: Subtask spark_job_setl3
+[2022-10-03 16:48:25,339] {logging_mixin.py:109} INFO - Running <TaskInstance: spark-setl3.spark_job_setl3 manual__2022-10-03T16:48:24.916897+00:00 [running]> on host 60fd5f6c9c58
+[2022-10-03 16:48:25,465] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=***admin@example.com
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=spark-setl3
+AIRFLOW_CTX_TASK_ID=spark_job_setl3
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-03T16:48:24.916897+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-03T16:48:24.916897+00:00
+[2022-10-03 16:48:25,477] {base.py:79} INFO - Using connection to: id: spark_default. Host: 10.0.9.226, Port: 7077, Schema: , Login: ***, Password: ***, extra: {}
+[2022-10-03 16:48:25,478] {spark_submit.py:334} INFO - Spark-Submit cmd: spark-submit --master 10.0.9.226:7077 --jars hdfs://10.0.9.226:8020/jars/setl_2.12-1.0.0-SNAPSHOT-jar-with-dependencies.jar --class Job_s2t_AddTagVideo hdfs://10.0.9.226:8020/jars/setl_2.12-1.0.0-SNAPSHOT.jar
+[2022-10-03 16:48:26,871] {spark_submit.py:485} INFO - Exception in thread "main" org.apache.spark.SparkException: Master must either be yarn or start with spark, mesos, k8s, or local
+[2022-10-03 16:48:26,871] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit.error(SparkSubmit.scala:975)
+[2022-10-03 16:48:26,871] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit.prepareSubmitEnvironment(SparkSubmit.scala:238)
+[2022-10-03 16:48:26,871] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:901)
+[2022-10-03 16:48:26,871] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit.doRunMain$1(SparkSubmit.scala:180)
+[2022-10-03 16:48:26,871] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit.submit(SparkSubmit.scala:203)
+[2022-10-03 16:48:26,871] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit.doSubmit(SparkSubmit.scala:90)
+[2022-10-03 16:48:26,871] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit$$anon$2.doSubmit(SparkSubmit.scala:1046)
+[2022-10-03 16:48:26,872] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:1055)
+[2022-10-03 16:48:26,872] {spark_submit.py:485} INFO - at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)
+[2022-10-03 16:48:26,900] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/apache/spark/operators/spark_submit.py", line 157, in execute
+    self._hook.submit(self._application)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/apache/spark/hooks/spark_submit.py", line 417, in submit
+    f"Cannot execute: {self._mask_cmd(spark_submit_cmd)}. Error code is: {returncode}."
+airflow.exceptions.AirflowException: Cannot execute: spark-submit --master 10.0.9.226:7077 --jars hdfs://10.0.9.226:8020/jars/setl_2.12-1.0.0-SNAPSHOT-jar-with-dependencies.jar --class Job_s2t_AddTagVideo hdfs://10.0.9.226:8020/jars/setl_2.12-1.0.0-SNAPSHOT.jar. Error code is: 1.
+[2022-10-03 16:48:26,905] {taskinstance.py:1277} INFO - Marking task as UP_FOR_RETRY. dag_id=spark-setl3, task_id=spark_job_setl3, execution_date=20221003T164824, start_date=20221003T164825, end_date=20221003T164826
+[2022-10-03 16:48:26,915] {standard_task_runner.py:92} ERROR - Failed to execute job 4 for task spark_job_setl3
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 184, in _run_raw_task
+    error_file=args.error_file,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/apache/spark/operators/spark_submit.py", line 157, in execute
+    self._hook.submit(self._application)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/apache/spark/hooks/spark_submit.py", line 417, in submit
+    f"Cannot execute: {self._mask_cmd(spark_submit_cmd)}. Error code is: {returncode}."
+airflow.exceptions.AirflowException: Cannot execute: spark-submit --master 10.0.9.226:7077 --jars hdfs://10.0.9.226:8020/jars/setl_2.12-1.0.0-SNAPSHOT-jar-with-dependencies.jar --class Job_s2t_AddTagVideo hdfs://10.0.9.226:8020/jars/setl_2.12-1.0.0-SNAPSHOT.jar. Error code is: 1.
+[2022-10-03 16:48:26,953] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-10-03 16:48:26,977] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

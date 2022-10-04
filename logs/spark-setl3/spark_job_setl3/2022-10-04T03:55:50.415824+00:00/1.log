@@ -1,0 +1,92 @@
+[2022-10-04 03:55:50,768] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: spark-setl3.spark_job_setl3 manual__2022-10-04T03:55:50.415824+00:00 [queued]>
+[2022-10-04 03:55:50,774] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: spark-setl3.spark_job_setl3 manual__2022-10-04T03:55:50.415824+00:00 [queued]>
+[2022-10-04 03:55:50,775] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-04 03:55:50,775] {taskinstance.py:1239} INFO - Starting attempt 1 of 2
+[2022-10-04 03:55:50,775] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-04 03:55:50,781] {taskinstance.py:1259} INFO - Executing <Task(SparkSubmitOperator): spark_job_setl3> on 2022-10-04 03:55:50.415824+00:00
+[2022-10-04 03:55:50,786] {standard_task_runner.py:52} INFO - Started process 5107 to run task
+[2022-10-04 03:55:50,788] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'spark-setl3', 'spark_job_setl3', 'manual__2022-10-04T03:55:50.415824+00:00', '--job-id', '65', '--raw', '--subdir', 'DAGS_FOLDER/spark-setl-scala3.py', '--cfg-path', '/tmp/tmpms0o1mhr', '--error-file', '/tmp/tmppgv9u7_b']
+[2022-10-04 03:55:50,788] {standard_task_runner.py:77} INFO - Job 65: Subtask spark_job_setl3
+[2022-10-04 03:55:50,819] {logging_mixin.py:109} INFO - Running <TaskInstance: spark-setl3.spark_job_setl3 manual__2022-10-04T03:55:50.415824+00:00 [running]> on host df2389ffd8bb
+[2022-10-04 03:55:50,863] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=***admin@example.com
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=spark-setl3
+AIRFLOW_CTX_TASK_ID=spark_job_setl3
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-04T03:55:50.415824+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-04T03:55:50.415824+00:00
+[2022-10-04 03:55:50,869] {base.py:79} INFO - Using connection to: id: spark_default. Host: spark://10.0.9.226, Port: 7077, Schema: , Login: ***, Password: ***, extra: {'deploy-mode': 'cluster'}
+[2022-10-04 03:55:50,870] {spark_submit.py:334} INFO - Spark-Submit cmd: spark-submit --master spark://10.0.9.226:7077 --jars hdfs://10.0.9.226:8020/tmp/jars/setl_2.12-1.0.0-SNAPSHOT-jar-with-dependencies.jar --class Job_s2t_AddTagVideo --deploy-mode cluster hdfs://10.0.9.226:8020/tmp/jars/setl_2.12-1.0.0-SNAPSHOT.jar
+[2022-10-04 03:55:52,423] {spark_submit.py:485} INFO - 22/10/04 03:55:52 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2022-10-04 03:55:53,017] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO SecurityManager: Changing view acls to: default
+[2022-10-04 03:55:53,017] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO SecurityManager: Changing modify acls to: default
+[2022-10-04 03:55:53,017] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO SecurityManager: Changing view acls groups to:
+[2022-10-04 03:55:53,018] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO SecurityManager: Changing modify acls groups to:
+[2022-10-04 03:55:53,018] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(default); groups with view permissions: Set(); users  with modify permissions: Set(default); groups with modify permissions: Set()
+[2022-10-04 03:55:53,393] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO Utils: Successfully started service 'driverClient' on port 41645.
+[2022-10-04 03:55:53,482] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO TransportClientFactory: Successfully created connection to /10.0.9.226:7077 after 67 ms (0 ms spent in bootstraps)
+[2022-10-04 03:55:53,667] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO ClientEndpoint: ... waiting before polling master for driver state
+[2022-10-04 03:55:53,690] {spark_submit.py:483} INFO - identified spark driver id: driver-20221004035553-0013
+[2022-10-04 03:55:53,690] {spark_submit.py:485} INFO - 22/10/04 03:55:53 INFO ClientEndpoint: Driver successfully submitted as driver-20221004035553-0013
+[2022-10-04 03:55:58,760] {spark_submit.py:485} INFO - 22/10/04 03:55:58 INFO ClientEndpoint: State of driver-20221004035553-0013 is ERROR
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - 22/10/04 03:55:58 ERROR ClientEndpoint: Exception from cluster was: java.io.IOException: Cannot run program "/usr/lib/jvm/java-8-openjdk-amd64//bin/java" (in directory "/opt/spark/work/driver-20221004035553-0013"): error=2, No such file or directory
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - java.io.IOException: Cannot run program "/usr/lib/jvm/java-8-openjdk-amd64//bin/java" (in directory "/opt/spark/work/driver-20221004035553-0013"): error=2, No such file or directory
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at org.apache.spark.deploy.worker.ProcessBuilderLike$$anon$3.start(DriverRunner.scala:274)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at org.apache.spark.deploy.worker.DriverRunner.runCommandWithRetry(DriverRunner.scala:239)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at org.apache.spark.deploy.worker.DriverRunner.runDriver(DriverRunner.scala:220)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at org.apache.spark.deploy.worker.DriverRunner.prepareAndRunDriver(DriverRunner.scala:203)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at org.apache.spark.deploy.worker.DriverRunner$$anon$2.run(DriverRunner.scala:99)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - Caused by: java.io.IOException: error=2, No such file or directory
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at java.lang.UNIXProcess.forkAndExec(Native Method)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at java.lang.UNIXProcess.<init>(UNIXProcess.java:247)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+[2022-10-04 03:55:58,762] {spark_submit.py:485} INFO - ... 5 more
+[2022-10-04 03:55:58,767] {spark_submit.py:485} INFO - 22/10/04 03:55:58 INFO ShutdownHookManager: Shutdown hook called
+[2022-10-04 03:55:58,767] {spark_submit.py:485} INFO - 22/10/04 03:55:58 INFO ShutdownHookManager: Deleting directory /tmp/spark-8ea4f19e-e8a6-4c08-a51b-daeb0322631f
+[2022-10-04 03:55:59,130] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/apache/spark/operators/spark_submit.py", line 157, in execute
+    self._hook.submit(self._application)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/apache/spark/hooks/spark_submit.py", line 417, in submit
+    f"Cannot execute: {self._mask_cmd(spark_submit_cmd)}. Error code is: {returncode}."
+airflow.exceptions.AirflowException: Cannot execute: spark-submit --master spark://10.0.9.226:7077 --jars hdfs://10.0.9.226:8020/tmp/jars/setl_2.12-1.0.0-SNAPSHOT-jar-with-dependencies.jar --class Job_s2t_AddTagVideo --deploy-mode cluster hdfs://10.0.9.226:8020/tmp/jars/setl_2.12-1.0.0-SNAPSHOT.jar. Error code is: 255.
+[2022-10-04 03:55:59,135] {taskinstance.py:1277} INFO - Marking task as UP_FOR_RETRY. dag_id=spark-setl3, task_id=spark_job_setl3, execution_date=20221004T035550, start_date=20221004T035550, end_date=20221004T035559
+[2022-10-04 03:55:59,145] {standard_task_runner.py:92} ERROR - Failed to execute job 65 for task spark_job_setl3
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 184, in _run_raw_task
+    error_file=args.error_file,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/apache/spark/operators/spark_submit.py", line 157, in execute
+    self._hook.submit(self._application)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/providers/apache/spark/hooks/spark_submit.py", line 417, in submit
+    f"Cannot execute: {self._mask_cmd(spark_submit_cmd)}. Error code is: {returncode}."
+airflow.exceptions.AirflowException: Cannot execute: spark-submit --master spark://10.0.9.226:7077 --jars hdfs://10.0.9.226:8020/tmp/jars/setl_2.12-1.0.0-SNAPSHOT-jar-with-dependencies.jar --class Job_s2t_AddTagVideo --deploy-mode cluster hdfs://10.0.9.226:8020/tmp/jars/setl_2.12-1.0.0-SNAPSHOT.jar. Error code is: 255.
+[2022-10-04 03:55:59,163] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-10-04 03:55:59,187] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
